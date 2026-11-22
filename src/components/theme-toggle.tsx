@@ -11,7 +11,7 @@ export function ThemeToggle() {
     const next = root.dataset.theme === "dark" ? "light" : "dark";
     root.dataset.theme = next;
     try {
-      localStorage.setItem("bendera:theme", next);
+      localStorage.setItem("flagmint:theme", next);
     } catch {
       // Storage can be blocked. The theme still applies for this page.
     }

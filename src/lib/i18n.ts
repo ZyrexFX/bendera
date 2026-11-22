@@ -7,7 +7,7 @@ export const langOptions: Array<{ value: Lang; label: string }> = [
 
 const id = {
   meta: {
-    title: "Bendera: kuis bendera dan ibu kota dunia",
+    title: "Flagmint: kuis bendera dan ibu kota dunia",
     description:
       "Latih ingatan bendera negara dan ibu kota dunia lewat kuis singkat, termasuk bendera negara bagian dari 250 negara dan wilayah.",
     ogDescription:
@@ -29,7 +29,7 @@ const id = {
   },
   header: {
     skip: "Lompat ke konten",
-    home: "Bendera, kembali ke beranda",
+    home: "Flagmint, kembali ke beranda",
     menu: "Navigasi utama",
     menuMobile: "Navigasi seluler",
     openMenu: "Buka menu",
@@ -45,7 +45,7 @@ const id = {
     about: "Tentang dan sumber data",
     flagsDataset: "Dataset bendera (MIT)",
     countriesDataset: "Data negara dan ibu kota (ODbL)",
-    copyright: `Bendera, ${new Date().getFullYear()}. Proyek latihan, tanpa iklan.`,
+    copyright: `Flagmint, ${new Date().getFullYear()}. Proyek latihan, tanpa iklan.`,
     iso: "Data bendera mengikuti ISO 3166-1 dan ISO 3166-2.",
   },
   levels: {
@@ -461,7 +461,7 @@ const id = {
     eyebrow: "Tentang",
     title: "Kecil, terbuka, dan tanpa akun.",
     description:
-      "Bendera adalah proyek latihan geografi: kuis bendera, ibu kota, dan bendera daerah, plus mode latihan. Tidak ada iklan, tidak ada pelacak, dan tidak ada pendaftaran.",
+      "Flagmint adalah proyek latihan geografi: kuis bendera, ibu kota, dan bendera daerah, plus mode latihan. Tidak ada iklan, tidak ada pelacak, dan tidak ada pendaftaran.",
     sourceTitle: "Sumber data",
     sourceFlags:
       "Semua bendera negara berasal dari iso3166-flags karya amckenna41, berlisensi MIT. Dataset itu berisi bendera ISO 3166-1 dan ISO 3166-2. Bendera negara disimpan sebagai berkas SVG di situs ini; bendera daerah dimuat dari CDN jsDelivr saat dibutuhkan, jadi memuat bendera daerah mengirim permintaan ke jsDelivr.",
@@ -519,7 +519,7 @@ const id = {
 
 const en: typeof id = {
   meta: {
-    title: "Bendera: world flag and capital quizzes",
+    title: "Flagmint: world flag and capital quizzes",
     description:
       "Practise world flags and capitals with short quizzes, including subdivision flags from 250 countries and territories.",
     ogDescription:
@@ -541,7 +541,7 @@ const en: typeof id = {
   },
   header: {
     skip: "Skip to content",
-    home: "Bendera, back to home",
+    home: "Flagmint, back to home",
     menu: "Main navigation",
     menuMobile: "Mobile navigation",
     openMenu: "Open menu",
@@ -557,7 +557,7 @@ const en: typeof id = {
     about: "About and data sources",
     flagsDataset: "Flag dataset (MIT)",
     countriesDataset: "Country and capital data (ODbL)",
-    copyright: `Bendera, ${new Date().getFullYear()}. Practice project, no ads.`,
+    copyright: `Flagmint, ${new Date().getFullYear()}. Practice project, no ads.`,
     iso: "Flag data follows ISO 3166-1 and ISO 3166-2.",
   },
   levels: {
@@ -973,7 +973,7 @@ const en: typeof id = {
     eyebrow: "About",
     title: "Small, open, and no account.",
     description:
-      "Bendera is a geography practice project: flag, capital, and subdivision quizzes, plus a study mode. No ads, no trackers, and no sign up.",
+      "Flagmint is a geography practice project: flag, capital, and subdivision quizzes, plus a study mode. No ads, no trackers, and no sign up.",
     sourceTitle: "Data sources",
     sourceFlags:
       "Every country flag comes from iso3166-flags by amckenna41, licensed MIT. The dataset holds ISO 3166-1 and ISO 3166-2 flags. Country flags are stored as SVG files on this site; subdivision flags load from the jsDelivr CDN when needed, so loading one makes a request to jsDelivr.",

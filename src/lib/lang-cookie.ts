@@ -1,1 +1,1 @@
-export const LANG_COOKIE = "bendera:lang";
+export const LANG_COOKIE = "flagmint:lang";

@@ -25,16 +25,16 @@ export async function generateMetadata(): Promise<Metadata> {
   return {
     title: {
       default: dict.meta.title,
-      template: "%s | Bendera",
+      template: "%s | Flagmint",
     },
     description: dict.meta.description,
-    applicationName: "Bendera",
+    applicationName: "Flagmint",
     openGraph: {
       title: dict.meta.title,
       description: dict.meta.ogDescription,
       type: "website",
       locale: lang === "en" ? "en_US" : "id_ID",
-      siteName: "Bendera",
+      siteName: "Flagmint",
     },
     twitter: {
       card: "summary",
@@ -51,7 +51,7 @@ export const viewport: Viewport = {
   ],
 };
 
-const themeScript = `(function(){try{var t=localStorage.getItem("bendera:theme");if(t!=="light"&&t!=="dark"){t=window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light"}document.documentElement.dataset.theme=t}catch(e){}})();`;
+const themeScript = `(function(){try{var t=localStorage.getItem("flagmint:theme");if(t!=="light"&&t!=="dark"){t=window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light"}document.documentElement.dataset.theme=t}catch(e){}})();`;
 
 export default async function RootLayout({
   children,

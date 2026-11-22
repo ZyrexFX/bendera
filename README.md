@@ -1,13 +1,13 @@
-# bendera.
+# flagmint.
 
-Bendera adalah kumpulan minigame geografi dalam bahasa Indonesia dan Inggris: tebak bendera negara, tebak ibu kota, tebak bendera negara bagian, dan mode latihan tanpa tekanan waktu. Tanpa akun, tanpa backend, tanpa iklan.
+Kumpulan minigame geografi dalam bahasa Indonesia dan Inggris: tebak bendera negara, tebak ibu kota, tebak bendera negara bagian, dan mode latihan tanpa tekanan waktu. Tanpa akun, tanpa backend, tanpa iklan.
 
-Situs produksi: **https://bendera-inky.vercel.app**  
+Situs produksi: **https://flagmint.vercel.app**  
 Kode sumber: **https://github.com/ZyrexFX/bendera**
 
 ## Bahasa
 
-Pemilih bahasa di header menyimpan pilihan di cookie `bendera:lang` (`id` atau `en`). Halaman, metadata, dan teks permainan dirender sesuai pilihan itu. Jawaban ketik menerima nama dalam kedua bahasa.
+Pemilih bahasa di header menyimpan pilihan di cookie `flagmint:lang` (`id` atau `en`). Halaman, metadata, dan teks permainan dirender sesuai pilihan itu. Jawaban ketik menerima nama dalam kedua bahasa.
 
 ## Isi
 
@@ -62,7 +62,7 @@ Tingkat kesulitan disusun editorial, bukan otomatis. Penjelasannya ada di halama
 
 ## Deploy
 
-Proyek Vercel `bendera` terhubung ke repositori GitHub ini. Setiap push ke `main` otomatis membangun ulang dan menerbitkan produksi. Deploy manual tetap bisa dengan `vercel --prod`.
+Proyek Vercel `flagmint` terhubung ke repositori GitHub ini. Setiap push ke `main` otomatis membangun ulang dan menerbitkan produksi. Deploy manual tetap bisa dengan `vercel --prod`.
 
 ## Lisensi
 

@@ -41,7 +41,7 @@ export function SiteHeader() {
           className="display text-2xl font-semibold tracking-[-0.05em] text-ink"
           aria-label={dict.header.home}
         >
-          bendera<span className="text-accent">.</span>
+          flagmint<span className="text-accent">.</span>
         </Link>
 
         <nav aria-label={dict.header.menu} className="hidden items-center gap-1 md:flex">

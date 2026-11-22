@@ -10,7 +10,7 @@ export function SiteFooter({ lang }: { lang: Lang }) {
       <div className="wrap grid gap-8 py-10 md:grid-cols-[1.2fr_1fr] md:gap-16">
         <div>
           <p className="display text-xl text-ink">
-            bendera<span className="text-accent">.</span>
+            flagmint<span className="text-accent">.</span>
           </p>
           <p className="mt-3 max-w-sm text-sm leading-relaxed text-muted">
             {dict.footer.blurb}

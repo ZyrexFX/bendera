@@ -1,8 +1,8 @@
-# Bendera: design direction
+# Flagmint: design direction
 
 ## Product
 
-Bendera is a small collection of geography minigames in Indonesian and English:
+Flagmint is a small collection of geography minigames in Indonesian and English:
 guess the flag, guess the capital, guess a country's subdivision flags, and
 practise with a browsable atlas. It is played in short sessions, mostly on a
 phone, often between other things.

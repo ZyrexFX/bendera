@@ -5,8 +5,8 @@ export type BestEntry = {
   at: string;
 };
 
-const BEST_KEY = "bendera:best";
-const SOUND_KEY = "bendera:sound";
+const BEST_KEY = "flagmint:best";
+const SOUND_KEY = "flagmint:sound";
 
 function canUseStorage() {
   return typeof window !== "undefined" && typeof localStorage !== "undefined";

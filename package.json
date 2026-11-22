@@ -1,8 +1,8 @@
 {
-  "name": "bendera",
+  "name": "flagmint",
   "version": "0.1.0",
   "private": true,
-  "description": "Kuis bendera dan ibu kota dunia, plus bendera negara bagian ISO 3166-2.",
+  "description": "Kuis bendera, ibu kota, dan bendera negara bagian. Indonesia dan Inggris.",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
