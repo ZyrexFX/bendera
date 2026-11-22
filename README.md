@@ -2,6 +2,9 @@
 
 Bendera adalah kumpulan minigame geografi dalam bahasa Indonesia dan Inggris: tebak bendera negara, tebak ibu kota, tebak bendera negara bagian, dan mode latihan tanpa tekanan waktu. Tanpa akun, tanpa backend, tanpa iklan.
 
+Situs produksi: **https://bendera-inky.vercel.app**  
+Kode sumber: **https://github.com/ZyrexFX/bendera**
+
 ## Bahasa
 
 Pemilih bahasa di header menyimpan pilihan di cookie `bendera:lang` (`id` atau `en`). Halaman, metadata, dan teks permainan dirender sesuai pilihan itu. Jawaban ketik menerima nama dalam kedua bahasa.
@@ -56,6 +59,16 @@ scripts/build-data.mjs  pipeline dataset
 - Nama negara bahasa Indonesia: CLDR lewat [i18n-iso-countries](https://github.com/michaelwittig/node-i18n-iso-countries), Unicode License, dengan beberapa penyesuaian manual
 
 Tingkat kesulitan disusun editorial, bukan otomatis. Penjelasannya ada di halaman `/tentang`.
+
+## Deploy
+
+Proyek Vercel bernama `bendera` di akun `zyrexfxs-projects`. Deploy manual dari mesin lokal:
+
+```bash
+vercel --prod
+```
+
+Untuk deploy otomatis setiap push ke `main`, hubungkan repositori GitHub lewat **Project Settings → Git** di Vercel.
 
 ## Lisensi
 
