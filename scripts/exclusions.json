@@ -1,0 +1,15 @@
+{
+  "note": "Subdivision flags that the source dataset fills with the parent country flag. Verified by rendering each flag next to its parent and comparing pixels. They are excluded so the quiz never shows two identical flags with different answers.",
+  "subdivisions": [
+    { "code": "FR-971", "name": "Guadeloupe", "reason": "Uses the French national flag" },
+    { "code": "FR-973", "name": "Guyane", "reason": "Uses the French national flag" },
+    { "code": "FR-974", "name": "La Réunion", "reason": "Uses the French national flag" },
+    { "code": "FR-976", "name": "Mayotte", "reason": "Uses the French national flag" },
+    { "code": "FR-BL", "name": "Saint-Barthélemy", "reason": "Uses the French national flag" },
+    { "code": "FR-CP", "name": "Clipperton", "reason": "Uses the French national flag" },
+    { "code": "FR-MF", "name": "Saint-Martin", "reason": "Uses the French national flag" },
+    { "code": "FR-PM", "name": "Saint-Pierre-et-Miquelon", "reason": "Uses the French national flag" },
+    { "code": "FR-WF", "name": "Wallis-et-Futuna", "reason": "Uses the French national flag" },
+    { "code": "NG-TA", "name": "Taraba", "reason": "Uses the Nigerian national flag" }
+  ]
+}

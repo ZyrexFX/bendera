@@ -1,0 +1,6788 @@
+[
+  {
+    "code": "af",
+    "alpha3": "AFG",
+    "numeric": "004",
+    "name": "Afghanistan",
+    "nameEn": "Afghanistan",
+    "capital": [
+      "Kabul"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "area": 652230,
+    "latlng": [
+      33,
+      65
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "af.svg",
+    "colors": [
+      "#000001",
+      "#090",
+      "#bd6b00",
+      "#bf0000",
+      "#fff"
+    ]
+  },
+  {
+    "code": "za",
+    "alpha3": "ZAF",
+    "numeric": "710",
+    "name": "Afrika Selatan",
+    "nameEn": "South Africa",
+    "capital": [
+      "Pretoria",
+      "Bloemfontein",
+      "Cape Town"
+    ],
+    "region": "Afrika",
+    "subregion": "Southern Africa",
+    "area": 1221037,
+    "latlng": [
+      -29,
+      24
+    ],
+    "difficulty": 1,
+    "independent": true,
+    "unMember": true,
+    "flag": "za.svg",
+    "colors": [
+      "#000001",
+      "#000c8a",
+      "#007847",
+      "#e1392d",
+      "#ffb915",
+      "#fff"
+    ]
+  },
+  {
+    "code": "cf",
+    "alpha3": "CAF",
+    "numeric": "140",
+    "name": "Afrika Tengah",
+    "nameEn": "Central African Republic",
+    "capital": [
+      "Bangui"
+    ],
+    "region": "Afrika",
+    "subregion": "Middle Africa",
+    "area": 622984,
+    "latlng": [
+      7,
+      21
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "cf.svg",
+    "colors": [
+      "#009a00",
+      "#00f",
+      "#ff0",
+      "#fff"
+    ]
+  },
+  {
+    "code": "ax",
+    "alpha3": "ALA",
+    "numeric": "248",
+    "name": "Åland Islands",
+    "nameEn": "Åland Islands",
+    "capital": [
+      "Mariehamn"
+    ],
+    "region": "Eropa",
+    "subregion": "Northern Europe",
+    "area": 1580,
+    "latlng": [
+      60.116667,
+      19.9
+    ],
+    "difficulty": 4,
+    "independent": false,
+    "unMember": false,
+    "flag": "ax.svg",
+    "colors": [
+      "#0053a5",
+      "#d21034",
+      "#ffce00"
+    ]
+  },
+  {
+    "code": "al",
+    "alpha3": "ALB",
+    "numeric": "008",
+    "name": "Albania",
+    "nameEn": "Albania",
+    "capital": [
+      "Tirana"
+    ],
+    "region": "Eropa",
+    "subregion": "Southeast Europe",
+    "area": 28748,
+    "latlng": [
+      41,
+      20
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "al.svg",
+    "colors": [
+      "#000001"
+    ]
+  },
+  {
+    "code": "dz",
+    "alpha3": "DZA",
+    "numeric": "012",
+    "name": "Algeria",
+    "nameEn": "Algeria",
+    "capital": [
+      "Algiers"
+    ],
+    "region": "Afrika",
+    "subregion": "Northern Africa",
+    "area": 2381741,
+    "latlng": [
+      28,
+      3
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "dz.svg",
+    "colors": [
+      "#006233",
+      "#d21034",
+      "#fff"
+    ]
+  },
+  {
+    "code": "us",
+    "alpha3": "USA",
+    "numeric": "840",
+    "name": "Amerika Serikat",
+    "nameEn": "United States",
+    "capital": [
+      "Washington D.C."
+    ],
+    "region": "Amerika",
+    "subregion": "North America",
+    "area": 9372610,
+    "latlng": [
+      38,
+      -97
+    ],
+    "difficulty": 1,
+    "independent": true,
+    "unMember": true,
+    "flag": "us.svg",
+    "colors": [
+      "#192f5d",
+      "#bd3d44",
+      "#fff"
+    ]
+  },
+  {
+    "code": "ad",
+    "alpha3": "AND",
+    "numeric": "020",
+    "name": "Andorra",
+    "nameEn": "Andorra",
+    "capital": [
+      "Andorra la Vella"
+    ],
+    "region": "Eropa",
+    "subregion": "Southern Europe",
+    "area": 468,
+    "latlng": [
+      42.5,
+      1.5
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "ad.svg",
+    "colors": [
+      "#0018a8",
+      "#0065bd",
+      "#703d29",
+      "#c7b37f",
+      "#d0103a",
+      "#d52b1e",
+      "#fcd900",
+      "#fedf00",
+      "#fff"
+    ]
+  },
+  {
+    "code": "ao",
+    "alpha3": "AGO",
+    "numeric": "024",
+    "name": "Angola",
+    "nameEn": "Angola",
+    "capital": [
+      "Luanda"
+    ],
+    "region": "Afrika",
+    "subregion": "Middle Africa",
+    "area": 1246700,
+    "latlng": [
+      -12.5,
+      18.5
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "ao.svg",
+    "colors": [
+      "#000001",
+      "#fe0",
+      "#ffec00"
+    ]
+  },
+  {
+    "code": "ai",
+    "alpha3": "AIA",
+    "numeric": "660",
+    "name": "Anguilla",
+    "nameEn": "Anguilla",
+    "capital": [
+      "The Valley"
+    ],
+    "region": "Amerika",
+    "subregion": "Caribbean",
+    "area": 91,
+    "latlng": [
+      18.25,
+      -63.16666666
+    ],
+    "difficulty": 3,
+    "independent": false,
+    "unMember": false,
+    "flag": "ai.svg",
+    "colors": [
+      "#012169",
+      "#9cf",
+      "#f90",
+      "#fdc301",
+      "#fff"
+    ]
+  },
+  {
+    "code": "aq",
+    "alpha3": "ATA",
+    "numeric": "010",
+    "name": "Antarctica",
+    "nameEn": "Antarctica",
+    "capital": [],
+    "region": "Antarktika",
+    "subregion": "",
+    "area": 14000000,
+    "latlng": [
+      -90,
+      0
+    ],
+    "difficulty": 4,
+    "independent": false,
+    "unMember": false,
+    "flag": "aq.svg",
+    "colors": [
+      "#3a7dce",
+      "#fff"
+    ]
+  },
+  {
+    "code": "tf",
+    "alpha3": "ATF",
+    "numeric": "260",
+    "name": "Antartika Perancis",
+    "nameEn": "French Southern and Antarctic Lands",
+    "capital": [
+      "Port-aux-Français"
+    ],
+    "region": "Antarktika",
+    "subregion": "",
+    "area": 7747,
+    "latlng": [
+      -49.25,
+      69.167
+    ],
+    "difficulty": 4,
+    "independent": false,
+    "unMember": false,
+    "flag": "tf.svg",
+    "colors": [
+      "#002395",
+      "#ed2939",
+      "#fff"
+    ]
+  },
+  {
+    "code": "ag",
+    "alpha3": "ATG",
+    "numeric": "028",
+    "name": "Antigua dan Barbuda",
+    "nameEn": "Antigua and Barbuda",
+    "capital": [
+      "Saint John's"
+    ],
+    "region": "Amerika",
+    "subregion": "Caribbean",
+    "area": 442,
+    "latlng": [
+      17.05,
+      -61.8
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "ag.svg",
+    "colors": [
+      "#000001",
+      "#0072c6",
+      "#ce1126",
+      "#fcd116",
+      "#fff"
+    ]
+  },
+  {
+    "code": "sa",
+    "alpha3": "SAU",
+    "numeric": "682",
+    "name": "Arab Saudi",
+    "nameEn": "Saudi Arabia",
+    "capital": [
+      "Riyadh"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "area": 2149690,
+    "latlng": [
+      25,
+      45
+    ],
+    "difficulty": 1,
+    "independent": true,
+    "unMember": true,
+    "flag": "sa.svg",
+    "colors": [
+      "#165d31",
+      "#fff"
+    ]
+  },
+  {
+    "code": "ar",
+    "alpha3": "ARG",
+    "numeric": "032",
+    "name": "Argentina",
+    "nameEn": "Argentina",
+    "capital": [
+      "Buenos Aires"
+    ],
+    "region": "Amerika",
+    "subregion": "South America",
+    "area": 2780400,
+    "latlng": [
+      -34,
+      -64
+    ],
+    "difficulty": 1,
+    "independent": true,
+    "unMember": true,
+    "flag": "ar.svg",
+    "colors": [
+      "#74acdf",
+      "#843511",
+      "#85340a",
+      "#f6b40e",
+      "#fff"
+    ]
+  },
+  {
+    "code": "am",
+    "alpha3": "ARM",
+    "numeric": "051",
+    "name": "Armenia",
+    "nameEn": "Armenia",
+    "capital": [
+      "Yerevan"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "area": 29743,
+    "latlng": [
+      40,
+      45
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "am.svg",
+    "colors": [
+      "#0033a0",
+      "#d90012",
+      "#f2a800"
+    ]
+  },
+  {
+    "code": "aw",
+    "alpha3": "ABW",
+    "numeric": "533",
+    "name": "Aruba",
+    "nameEn": "Aruba",
+    "capital": [
+      "Oranjestad"
+    ],
+    "region": "Amerika",
+    "subregion": "Caribbean",
+    "area": 180,
+    "latlng": [
+      12.5,
+      -69.96666666
+    ],
+    "difficulty": 3,
+    "independent": false,
+    "unMember": false,
+    "flag": "aw.svg",
+    "colors": [
+      "#39c",
+      "#69c",
+      "#6cc",
+      "#9cc",
+      "#9cf",
+      "#c00",
+      "#c33",
+      "#c66",
+      "#ccf",
+      "#cff",
+      "#fcc",
+      "#ff0"
+    ]
+  },
+  {
+    "code": "au",
+    "alpha3": "AUS",
+    "numeric": "036",
+    "name": "Australia",
+    "nameEn": "Australia",
+    "capital": [
+      "Canberra"
+    ],
+    "region": "Oseania",
+    "subregion": "Australia and New Zealand",
+    "area": 7692024,
+    "latlng": [
+      -27,
+      133
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "au.svg",
+    "colors": [
+      "#00008b",
+      "#fff"
+    ]
+  },
+  {
+    "code": "at",
+    "alpha3": "AUT",
+    "numeric": "040",
+    "name": "Austria",
+    "nameEn": "Austria",
+    "capital": [
+      "Vienna"
+    ],
+    "region": "Eropa",
+    "subregion": "Central Europe",
+    "area": 83871,
+    "latlng": [
+      47.33333333,
+      13.33333333
+    ],
+    "difficulty": 1,
+    "independent": true,
+    "unMember": true,
+    "flag": "at.svg",
+    "colors": [
+      "#c8102e",
+      "#fff"
+    ]
+  },
+  {
+    "code": "az",
+    "alpha3": "AZE",
+    "numeric": "031",
+    "name": "Azerbaijan",
+    "nameEn": "Azerbaijan",
+    "capital": [
+      "Baku"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "area": 86600,
+    "latlng": [
+      40.5,
+      47.5
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "az.svg",
+    "colors": [
+      "#00b9e4",
+      "#3f9c35",
+      "#ed2939",
+      "#fff"
+    ]
+  },
+  {
+    "code": "bs",
+    "alpha3": "BHS",
+    "numeric": "044",
+    "name": "Bahama",
+    "nameEn": "Bahamas",
+    "capital": [
+      "Nassau"
+    ],
+    "region": "Amerika",
+    "subregion": "Caribbean",
+    "area": 13943,
+    "latlng": [
+      24.25,
+      -76
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "bs.svg",
+    "colors": [
+      "#000001",
+      "#08ced6",
+      "#ffe900",
+      "#fff"
+    ]
+  },
+  {
+    "code": "bh",
+    "alpha3": "BHR",
+    "numeric": "048",
+    "name": "Bahrain",
+    "nameEn": "Bahrain",
+    "capital": [
+      "Manama"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "area": 765,
+    "latlng": [
+      26,
+      50.55
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "bh.svg",
+    "colors": [
+      "#ce1126",
+      "#fff"
+    ]
+  },
+  {
+    "code": "bd",
+    "alpha3": "BGD",
+    "numeric": "050",
+    "name": "Bangladesh",
+    "nameEn": "Bangladesh",
+    "capital": [
+      "Dhaka"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "area": 147570,
+    "latlng": [
+      24,
+      90
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "bd.svg",
+    "colors": [
+      "#006a4e",
+      "#f42a41"
+    ]
+  },
+  {
+    "code": "bb",
+    "alpha3": "BRB",
+    "numeric": "052",
+    "name": "Barbados",
+    "nameEn": "Barbados",
+    "capital": [
+      "Bridgetown"
+    ],
+    "region": "Amerika",
+    "subregion": "Caribbean",
+    "area": 430,
+    "latlng": [
+      13.16666666,
+      -59.53333333
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "bb.svg",
+    "colors": [
+      "#000001",
+      "#00267f",
+      "#ffc726"
+    ]
+  },
+  {
+    "code": "nl",
+    "alpha3": "NLD",
+    "numeric": "528",
+    "name": "Belanda",
+    "nameEn": "Netherlands",
+    "capital": [
+      "Amsterdam"
+    ],
+    "region": "Eropa",
+    "subregion": "Western Europe",
+    "area": 41850,
+    "latlng": [
+      52.5,
+      5.75
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "nl.svg",
+    "colors": [
+      "#21468b",
+      "#ae1c28",
+      "#fff"
+    ]
+  },
+  {
+    "code": "by",
+    "alpha3": "BLR",
+    "numeric": "112",
+    "name": "Belarusia",
+    "nameEn": "Belarus",
+    "capital": [
+      "Minsk"
+    ],
+    "region": "Eropa",
+    "subregion": "Eastern Europe",
+    "area": 207600,
+    "latlng": [
+      53,
+      28
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "by.svg",
+    "colors": [
+      "#007c30",
+      "#ce1720",
+      "#fff"
+    ]
+  },
+  {
+    "code": "be",
+    "alpha3": "BEL",
+    "numeric": "056",
+    "name": "Belgia",
+    "nameEn": "Belgium",
+    "capital": [
+      "Brussels"
+    ],
+    "region": "Eropa",
+    "subregion": "Western Europe",
+    "area": 30528,
+    "latlng": [
+      50.83333333,
+      4
+    ],
+    "difficulty": 1,
+    "independent": true,
+    "unMember": true,
+    "flag": "be.svg",
+    "colors": [
+      "#000001",
+      "#f31830",
+      "#ffd90c"
+    ]
+  },
+  {
+    "code": "bz",
+    "alpha3": "BLZ",
+    "numeric": "084",
+    "name": "Belize",
+    "nameEn": "Belize",
+    "capital": [
+      "Belmopan"
+    ],
+    "region": "Amerika",
+    "subregion": "Central America",
+    "area": 22966,
+    "latlng": [
+      17.25,
+      -88.75
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "bz.svg",
+    "colors": [
+      "#000001",
+      "#003f87",
+      "#005800",
+      "#006ac8",
+      "#007f00",
+      "#289400",
+      "#5ac800",
+      "#69f",
+      "#730000",
+      "#782121",
+      "#7e4b7e",
+      "#9b5f00"
+    ]
+  },
+  {
+    "code": "bj",
+    "alpha3": "BEN",
+    "numeric": "204",
+    "name": "Benin",
+    "nameEn": "Benin",
+    "capital": [
+      "Porto-Novo"
+    ],
+    "region": "Afrika",
+    "subregion": "Western Africa",
+    "area": 112622,
+    "latlng": [
+      9.5,
+      2.25
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "bj.svg",
+    "colors": [
+      "#319400",
+      "#de2110",
+      "#ffd600"
+    ]
+  },
+  {
+    "code": "bm",
+    "alpha3": "BMU",
+    "numeric": "060",
+    "name": "Bermuda",
+    "nameEn": "Bermuda",
+    "capital": [
+      "Hamilton"
+    ],
+    "region": "Amerika",
+    "subregion": "North America",
+    "area": 54,
+    "latlng": [
+      32.33333333,
+      -64.75
+    ],
+    "difficulty": 3,
+    "independent": false,
+    "unMember": false,
+    "flag": "bm.svg",
+    "colors": [
+      "#006",
+      "#2f8f22",
+      "#64b4d1",
+      "#784421",
+      "#c8102e",
+      "#cf142b",
+      "#d40000",
+      "#e4cb5e",
+      "#f5ce00",
+      "#fff"
+    ]
+  },
+  {
+    "code": "bt",
+    "alpha3": "BTN",
+    "numeric": "064",
+    "name": "Bhutan",
+    "nameEn": "Bhutan",
+    "capital": [
+      "Thimphu"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "area": 38394,
+    "latlng": [
+      27.5,
+      90.5
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "bt.svg",
+    "colors": [
+      "#ff4e12",
+      "#ffd520",
+      "#fff"
+    ]
+  },
+  {
+    "code": "bo",
+    "alpha3": "BOL",
+    "numeric": "068",
+    "name": "Bolivia",
+    "nameEn": "Bolivia",
+    "capital": [
+      "Sucre"
+    ],
+    "region": "Amerika",
+    "subregion": "South America",
+    "area": 1098581,
+    "latlng": [
+      -17,
+      -65
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "bo.svg",
+    "colors": [
+      "#005000",
+      "#007934",
+      "#007a3d",
+      "#00a6de",
+      "#00e519",
+      "#452c25",
+      "#574f4c",
+      "#5e3f17",
+      "#7a2e26",
+      "#842116",
+      "#a05a2c",
+      "#bd8759"
+    ]
+  },
+  {
+    "code": "bq",
+    "alpha3": "BES",
+    "numeric": "535",
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "nameEn": "Caribbean Netherlands",
+    "capital": [
+      "Kralendijk",
+      "Oranjestad",
+      "The Bottom"
+    ],
+    "region": "Amerika",
+    "subregion": "Caribbean",
+    "area": 328,
+    "latlng": [
+      12.18,
+      -68.25
+    ],
+    "difficulty": 3,
+    "independent": false,
+    "unMember": false,
+    "flag": "bq.svg",
+    "colors": [
+      "#21468b",
+      "#ae1c28",
+      "#fff"
+    ]
+  },
+  {
+    "code": "ba",
+    "alpha3": "BIH",
+    "numeric": "070",
+    "name": "Bosnia dan Herzegovina",
+    "nameEn": "Bosnia and Herzegovina",
+    "capital": [
+      "Sarajevo"
+    ],
+    "region": "Eropa",
+    "subregion": "Southeast Europe",
+    "area": 51209,
+    "latlng": [
+      44,
+      18
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "ba.svg",
+    "colors": [
+      "#009",
+      "#fc0",
+      "#fff"
+    ]
+  },
+  {
+    "code": "bw",
+    "alpha3": "BWA",
+    "numeric": "072",
+    "name": "Botswana",
+    "nameEn": "Botswana",
+    "capital": [
+      "Gaborone"
+    ],
+    "region": "Afrika",
+    "subregion": "Southern Africa",
+    "area": 582000,
+    "latlng": [
+      -22,
+      24
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "bw.svg",
+    "colors": [
+      "#000001",
+      "#00cbff",
+      "#fff"
+    ]
+  },
+  {
+    "code": "br",
+    "alpha3": "BRA",
+    "numeric": "076",
+    "name": "Brasil",
+    "nameEn": "Brazil",
+    "capital": [
+      "Brasília"
+    ],
+    "region": "Amerika",
+    "subregion": "South America",
+    "area": 8515767,
+    "latlng": [
+      -10,
+      -55
+    ],
+    "difficulty": 1,
+    "independent": true,
+    "unMember": true,
+    "flag": "br.svg",
+    "colors": [
+      "#229e45",
+      "#2b49a3",
+      "#309e3a",
+      "#f7ffff",
+      "#f8e509",
+      "#fff",
+      "#ffffef"
+    ]
+  },
+  {
+    "code": "gb",
+    "alpha3": "GBR",
+    "numeric": "826",
+    "name": "Britania Raya",
+    "nameEn": "United Kingdom",
+    "capital": [
+      "London"
+    ],
+    "region": "Eropa",
+    "subregion": "Northern Europe",
+    "area": 242900,
+    "latlng": [
+      54,
+      -2
+    ],
+    "difficulty": 1,
+    "independent": true,
+    "unMember": true,
+    "flag": "gb.svg",
+    "colors": [
+      "#012169",
+      "#c8102e",
+      "#fff"
+    ]
+  },
+  {
+    "code": "bn",
+    "alpha3": "BRN",
+    "numeric": "096",
+    "name": "Brunei Darussalam",
+    "nameEn": "Brunei",
+    "capital": [
+      "Bandar Seri Begawan"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "area": 5765,
+    "latlng": [
+      4.5,
+      114.66666666
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "bn.svg",
+    "colors": [
+      "#000001",
+      "#cf1126",
+      "#f7e017",
+      "#fff"
+    ]
+  },
+  {
+    "code": "bg",
+    "alpha3": "BGR",
+    "numeric": "100",
+    "name": "Bulgaria",
+    "nameEn": "Bulgaria",
+    "capital": [
+      "Sofia"
+    ],
+    "region": "Eropa",
+    "subregion": "Southeast Europe",
+    "area": 110879,
+    "latlng": [
+      43,
+      25
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "bg.svg",
+    "colors": [
+      "#00966e",
+      "#d62612",
+      "#fff"
+    ]
+  },
+  {
+    "code": "bf",
+    "alpha3": "BFA",
+    "numeric": "854",
+    "name": "Burkina Faso",
+    "nameEn": "Burkina Faso",
+    "capital": [
+      "Ouagadougou"
+    ],
+    "region": "Afrika",
+    "subregion": "Western Africa",
+    "area": 272967,
+    "latlng": [
+      13,
+      -2
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "bf.svg",
+    "colors": [
+      "#35a100",
+      "#de0000",
+      "#fff300"
+    ]
+  },
+  {
+    "code": "bi",
+    "alpha3": "BDI",
+    "numeric": "108",
+    "name": "Burundi",
+    "nameEn": "Burundi",
+    "capital": [
+      "Gitega"
+    ],
+    "region": "Afrika",
+    "subregion": "Eastern Africa",
+    "area": 27834,
+    "latlng": [
+      -3.5,
+      30
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "bi.svg",
+    "colors": [
+      "#18b637",
+      "#cf0921",
+      "#fff"
+    ]
+  },
+  {
+    "code": "cz",
+    "alpha3": "CZE",
+    "numeric": "203",
+    "name": "Ceko",
+    "nameEn": "Czechia",
+    "capital": [
+      "Prague"
+    ],
+    "region": "Eropa",
+    "subregion": "Central Europe",
+    "area": 78865,
+    "latlng": [
+      49.75,
+      15.5
+    ],
+    "difficulty": 1,
+    "independent": true,
+    "unMember": true,
+    "flag": "cz.svg",
+    "colors": [
+      "#11457e",
+      "#d7141a",
+      "#fff"
+    ]
+  },
+  {
+    "code": "td",
+    "alpha3": "TCD",
+    "numeric": "148",
+    "name": "Chad",
+    "nameEn": "Chad",
+    "capital": [
+      "N'Djamena"
+    ],
+    "region": "Afrika",
+    "subregion": "Middle Africa",
+    "area": 1284000,
+    "latlng": [
+      15,
+      19
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "td.svg",
+    "colors": [
+      "#002664",
+      "#c60c30",
+      "#fecb00"
+    ]
+  },
+  {
+    "code": "cl",
+    "alpha3": "CHL",
+    "numeric": "152",
+    "name": "Chile",
+    "nameEn": "Chile",
+    "capital": [
+      "Santiago"
+    ],
+    "region": "Amerika",
+    "subregion": "South America",
+    "area": 756102,
+    "latlng": [
+      -30,
+      -71
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "cl.svg",
+    "colors": [
+      "#0039a6",
+      "#d52b1e",
+      "#fff"
+    ]
+  },
+  {
+    "code": "cn",
+    "alpha3": "CHN",
+    "numeric": "156",
+    "name": "China",
+    "nameEn": "China",
+    "capital": [
+      "Beijing"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "area": 9706961,
+    "latlng": [
+      35,
+      105
+    ],
+    "difficulty": 1,
+    "independent": true,
+    "unMember": true,
+    "flag": "cn.svg",
+    "colors": [
+      "#ee1c25",
+      "#ff0"
+    ]
+  },
+  {
+    "code": "cw",
+    "alpha3": "CUW",
+    "numeric": "531",
+    "name": "Curaçao",
+    "nameEn": "Curaçao",
+    "capital": [
+      "Willemstad"
+    ],
+    "region": "Amerika",
+    "subregion": "Caribbean",
+    "area": 444,
+    "latlng": [
+      12.116667,
+      -68.933333
+    ],
+    "difficulty": 3,
+    "independent": false,
+    "unMember": false,
+    "flag": "cw.svg",
+    "colors": [
+      "#002b7f",
+      "#f9e814",
+      "#fff"
+    ]
+  },
+  {
+    "code": "dk",
+    "alpha3": "DNK",
+    "numeric": "208",
+    "name": "Denmark",
+    "nameEn": "Denmark",
+    "capital": [
+      "Copenhagen"
+    ],
+    "region": "Eropa",
+    "subregion": "Northern Europe",
+    "area": 43094,
+    "latlng": [
+      56,
+      10
+    ],
+    "difficulty": 1,
+    "independent": true,
+    "unMember": true,
+    "flag": "dk.svg",
+    "colors": [
+      "#c8102e",
+      "#fff"
+    ]
+  },
+  {
+    "code": "dj",
+    "alpha3": "DJI",
+    "numeric": "262",
+    "name": "Djibouti",
+    "nameEn": "Djibouti",
+    "capital": [
+      "Djibouti"
+    ],
+    "region": "Afrika",
+    "subregion": "Eastern Africa",
+    "area": 23200,
+    "latlng": [
+      11.5,
+      43
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "dj.svg",
+    "colors": [
+      "#0c0",
+      "#69f",
+      "#fffefe"
+    ]
+  },
+  {
+    "code": "dm",
+    "alpha3": "DMA",
+    "numeric": "212",
+    "name": "Dominika",
+    "nameEn": "Dominica",
+    "capital": [
+      "Roseau"
+    ],
+    "region": "Amerika",
+    "subregion": "Caribbean",
+    "area": 751,
+    "latlng": [
+      15.41666666,
+      -61.33333333
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "dm.svg",
+    "colors": [
+      "#000001",
+      "#009200",
+      "#108c00",
+      "#804bff",
+      "#a95600",
+      "#c90000",
+      "#e72910",
+      "#ff0",
+      "#ffd600",
+      "#ffe700",
+      "#fff"
+    ]
+  },
+  {
+    "code": "ec",
+    "alpha3": "ECU",
+    "numeric": "218",
+    "name": "Ekuador",
+    "nameEn": "Ecuador",
+    "capital": [
+      "Quito"
+    ],
+    "region": "Amerika",
+    "subregion": "South America",
+    "area": 276841,
+    "latlng": [
+      -2,
+      -77.5
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "ec.svg",
+    "colors": [
+      "#0000c4",
+      "#00148e",
+      "#005b00",
+      "#38a9f9",
+      "#812e00",
+      "#908f8a",
+      "#984000",
+      "#a7cfff",
+      "#afff7b",
+      "#b74d00",
+      "#b7e1ff",
+      "#cececc"
+    ]
+  },
+  {
+    "code": "sv",
+    "alpha3": "SLV",
+    "numeric": "222",
+    "name": "El Salvador",
+    "nameEn": "El Salvador",
+    "capital": [
+      "San Salvador"
+    ],
+    "region": "Amerika",
+    "subregion": "Central America",
+    "area": 21041,
+    "latlng": [
+      13.83333333,
+      -88.91666666
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "sv.svg",
+    "colors": [
+      "#00209f",
+      "#007e93",
+      "#011322",
+      "#011d33",
+      "#0f47af",
+      "#1f601a",
+      "#e60000",
+      "#fc0",
+      "#fff"
+    ]
+  },
+  {
+    "code": "er",
+    "alpha3": "ERI",
+    "numeric": "232",
+    "name": "Eritrea",
+    "nameEn": "Eritrea",
+    "capital": [
+      "Asmara"
+    ],
+    "region": "Afrika",
+    "subregion": "Eastern Africa",
+    "area": 117600,
+    "latlng": [
+      15,
+      39
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "er.svg",
+    "colors": [
+      "#239e46",
+      "#b4d7f4",
+      "#be0027",
+      "#f3e295"
+    ]
+  },
+  {
+    "code": "ee",
+    "alpha3": "EST",
+    "numeric": "233",
+    "name": "Estonia",
+    "nameEn": "Estonia",
+    "capital": [
+      "Tallinn"
+    ],
+    "region": "Eropa",
+    "subregion": "Northern Europe",
+    "area": 45227,
+    "latlng": [
+      59,
+      26
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "ee.svg",
+    "colors": [
+      "#000001",
+      "#1791ff",
+      "#fff"
+    ]
+  },
+  {
+    "code": "sz",
+    "alpha3": "SWZ",
+    "numeric": "748",
+    "name": "Eswatini",
+    "nameEn": "Eswatini",
+    "capital": [
+      "Lobamba"
+    ],
+    "region": "Afrika",
+    "subregion": "Southern Africa",
+    "area": 17364,
+    "latlng": [
+      -26.5,
+      31.5
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "sz.svg",
+    "colors": [
+      "#333",
+      "#3e5eb9",
+      "#a70000",
+      "#b10c0c",
+      "#b3b3b3",
+      "#ffd900",
+      "#fff"
+    ]
+  },
+  {
+    "code": "et",
+    "alpha3": "ETH",
+    "numeric": "231",
+    "name": "Ethiopia",
+    "nameEn": "Ethiopia",
+    "capital": [
+      "Addis Ababa"
+    ],
+    "region": "Afrika",
+    "subregion": "Eastern Africa",
+    "area": 1104300,
+    "latlng": [
+      8,
+      38
+    ],
+    "difficulty": 1,
+    "independent": true,
+    "unMember": true,
+    "flag": "et.svg",
+    "colors": [
+      "#006bc6",
+      "#298c08",
+      "#ef2118",
+      "#ffc621"
+    ]
+  },
+  {
+    "code": "fm",
+    "alpha3": "FSM",
+    "numeric": "583",
+    "name": "Federasi Mikronesia",
+    "nameEn": "Micronesia",
+    "capital": [
+      "Palikir"
+    ],
+    "region": "Oseania",
+    "subregion": "Micronesia",
+    "area": 702,
+    "latlng": [
+      6.91666666,
+      158.25
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "fm.svg",
+    "colors": [
+      "#6797d6",
+      "#fff"
+    ]
+  },
+  {
+    "code": "fj",
+    "alpha3": "FJI",
+    "numeric": "242",
+    "name": "Fiji",
+    "nameEn": "Fiji",
+    "capital": [
+      "Suva"
+    ],
+    "region": "Oseania",
+    "subregion": "Melanesia",
+    "area": 18272,
+    "latlng": [
+      -18,
+      175
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "fj.svg",
+    "colors": [
+      "#000001",
+      "#00a651",
+      "#012169",
+      "#68bfe5",
+      "#964b36",
+      "#c8102e",
+      "#d21034",
+      "#ffd100",
+      "#fff",
+      "#fff200"
+    ]
+  },
+  {
+    "code": "ph",
+    "alpha3": "PHL",
+    "numeric": "608",
+    "name": "Filipina",
+    "nameEn": "Philippines",
+    "capital": [
+      "Manila"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "area": 342353,
+    "latlng": [
+      13,
+      122
+    ],
+    "difficulty": 1,
+    "independent": true,
+    "unMember": true,
+    "flag": "ph.svg",
+    "colors": [
+      "#0038a8",
+      "#ce1126",
+      "#fcd116",
+      "#fff"
+    ]
+  },
+  {
+    "code": "fi",
+    "alpha3": "FIN",
+    "numeric": "246",
+    "name": "Finlandia",
+    "nameEn": "Finland",
+    "capital": [
+      "Helsinki"
+    ],
+    "region": "Eropa",
+    "subregion": "Northern Europe",
+    "area": 338424,
+    "latlng": [
+      64,
+      26
+    ],
+    "difficulty": 1,
+    "independent": true,
+    "unMember": true,
+    "flag": "fi.svg",
+    "colors": [
+      "#002f6c",
+      "#fff"
+    ]
+  },
+  {
+    "code": "ga",
+    "alpha3": "GAB",
+    "numeric": "266",
+    "name": "Gabon",
+    "nameEn": "Gabon",
+    "capital": [
+      "Libreville"
+    ],
+    "region": "Afrika",
+    "subregion": "Middle Africa",
+    "area": 267668,
+    "latlng": [
+      -1,
+      11.75
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "ga.svg",
+    "colors": [
+      "#006dbc",
+      "#36a100",
+      "#ffe700"
+    ]
+  },
+  {
+    "code": "gm",
+    "alpha3": "GMB",
+    "numeric": "270",
+    "name": "Gambia",
+    "nameEn": "Gambia",
+    "capital": [
+      "Banjul"
+    ],
+    "region": "Afrika",
+    "subregion": "Western Africa",
+    "area": 10689,
+    "latlng": [
+      13.46666666,
+      -16.56666666
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "gm.svg",
+    "colors": [
+      "#009",
+      "#090",
+      "#fff"
+    ]
+  },
+  {
+    "code": "ge",
+    "alpha3": "GEO",
+    "numeric": "268",
+    "name": "Georgia",
+    "nameEn": "Georgia",
+    "capital": [
+      "Tbilisi"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "area": 69700,
+    "latlng": [
+      42,
+      43.5
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "ge.svg",
+    "colors": [
+      "#fff"
+    ]
+  },
+  {
+    "code": "gs",
+    "alpha3": "SGS",
+    "numeric": "239",
+    "name": "Georgia Selatan dan Kepulauan Sandwich Selatan",
+    "nameEn": "South Georgia",
+    "capital": [
+      "King Edward Point"
+    ],
+    "region": "Antarktika",
+    "subregion": "",
+    "area": 3903,
+    "latlng": [
+      -54.5,
+      -37
+    ],
+    "difficulty": 4,
+    "independent": false,
+    "unMember": false,
+    "flag": "gs.svg",
+    "colors": [
+      "#006",
+      "#006b00",
+      "#00713d",
+      "#00f",
+      "#012169",
+      "#1e5aa6",
+      "#2b2b2b",
+      "#474747",
+      "#5e0043",
+      "#656263",
+      "#6a4c2d",
+      "#8a9396"
+    ]
+  },
+  {
+    "code": "gh",
+    "alpha3": "GHA",
+    "numeric": "288",
+    "name": "Ghana",
+    "nameEn": "Ghana",
+    "capital": [
+      "Accra"
+    ],
+    "region": "Afrika",
+    "subregion": "Western Africa",
+    "area": 238533,
+    "latlng": [
+      8,
+      -2
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "gh.svg",
+    "colors": [
+      "#000001",
+      "#006b3f",
+      "#ce1126",
+      "#fcd116"
+    ]
+  },
+  {
+    "code": "gi",
+    "alpha3": "GIB",
+    "numeric": "292",
+    "name": "Gibraltar",
+    "nameEn": "Gibraltar",
+    "capital": [
+      "Gibraltar"
+    ],
+    "region": "Eropa",
+    "subregion": "Southern Europe",
+    "area": 6,
+    "latlng": [
+      36.13333333,
+      -5.35
+    ],
+    "difficulty": 3,
+    "independent": false,
+    "unMember": false,
+    "flag": "gi.svg",
+    "colors": [
+      "#000001",
+      "#da000c",
+      "#f8d80e",
+      "#fff"
+    ]
+  },
+  {
+    "code": "gl",
+    "alpha3": "GRL",
+    "numeric": "304",
+    "name": "Greenland",
+    "nameEn": "Greenland",
+    "capital": [
+      "Nuuk"
+    ],
+    "region": "Amerika",
+    "subregion": "North America",
+    "area": 2166086,
+    "latlng": [
+      72,
+      -40
+    ],
+    "difficulty": 2,
+    "independent": false,
+    "unMember": false,
+    "flag": "gl.svg",
+    "colors": [
+      "#d00c33",
+      "#fff"
+    ]
+  },
+  {
+    "code": "gd",
+    "alpha3": "GRD",
+    "numeric": "308",
+    "name": "Grenada",
+    "nameEn": "Grenada",
+    "capital": [
+      "St. George's"
+    ],
+    "region": "Amerika",
+    "subregion": "Caribbean",
+    "area": 344,
+    "latlng": [
+      12.11666666,
+      -61.66666666
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "gd.svg",
+    "colors": [
+      "#007a5e",
+      "#ce1126",
+      "#fcd116"
+    ]
+  },
+  {
+    "code": "gp",
+    "alpha3": "GLP",
+    "numeric": "312",
+    "name": "Guadeloupe",
+    "nameEn": "Guadeloupe",
+    "capital": [
+      "Basse-Terre"
+    ],
+    "region": "Amerika",
+    "subregion": "Caribbean",
+    "area": 1628,
+    "latlng": [
+      16.25,
+      -61.583333
+    ],
+    "difficulty": 4,
+    "independent": false,
+    "unMember": false,
+    "flag": "gp.svg",
+    "colors": [
+      "#000091",
+      "#e1000f",
+      "#fff"
+    ]
+  },
+  {
+    "code": "gu",
+    "alpha3": "GUM",
+    "numeric": "316",
+    "name": "Guam",
+    "nameEn": "Guam",
+    "capital": [
+      "Hagåtña"
+    ],
+    "region": "Oseania",
+    "subregion": "Micronesia",
+    "area": 549,
+    "latlng": [
+      13.46666666,
+      144.78333333
+    ],
+    "difficulty": 2,
+    "independent": false,
+    "unMember": false,
+    "flag": "gu.svg",
+    "colors": [
+      "#179a3b",
+      "#239e46",
+      "#3b5aa3",
+      "#a68861",
+      "#a79270",
+      "#add2d9",
+      "#bd0728",
+      "#be0027",
+      "#cbe0e5",
+      "#fdf9a1",
+      "#fdf9ff"
+    ]
+  },
+  {
+    "code": "gt",
+    "alpha3": "GTM",
+    "numeric": "320",
+    "name": "Guatamala",
+    "nameEn": "Guatemala",
+    "capital": [
+      "Guatemala City"
+    ],
+    "region": "Amerika",
+    "subregion": "Central America",
+    "area": 108889,
+    "latlng": [
+      15.5,
+      -90.25
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "gt.svg",
+    "colors": [
+      "#34541f",
+      "#406325",
+      "#448127",
+      "#485654",
+      "#4997d0",
+      "#67923d",
+      "#6c301e",
+      "#8c959d",
+      "#a08307",
+      "#b07e09",
+      "#b2b6ba",
+      "#ba1f3e"
+    ]
+  },
+  {
+    "code": "gg",
+    "alpha3": "GGY",
+    "numeric": "831",
+    "name": "Guernsey",
+    "nameEn": "Guernsey",
+    "capital": [
+      "St. Peter Port"
+    ],
+    "region": "Eropa",
+    "subregion": "Northern Europe",
+    "area": 78,
+    "latlng": [
+      49.46666666,
+      -2.58333333
+    ],
+    "difficulty": 3,
+    "independent": false,
+    "unMember": false,
+    "flag": "gg.svg",
+    "colors": [
+      "#e8112d",
+      "#f9dd16",
+      "#fff"
+    ]
+  },
+  {
+    "code": "gn",
+    "alpha3": "GIN",
+    "numeric": "324",
+    "name": "Guinea",
+    "nameEn": "Guinea",
+    "capital": [
+      "Conakry"
+    ],
+    "region": "Afrika",
+    "subregion": "Western Africa",
+    "area": 245857,
+    "latlng": [
+      11,
+      -10
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "gn.svg",
+    "colors": [
+      "#090",
+      "#ff0"
+    ]
+  },
+  {
+    "code": "gq",
+    "alpha3": "GNQ",
+    "numeric": "226",
+    "name": "Guinea Khatulistiwa",
+    "nameEn": "Equatorial Guinea",
+    "capital": [
+      "Ciudad de la Paz"
+    ],
+    "region": "Afrika",
+    "subregion": "Middle Africa",
+    "area": 28051,
+    "latlng": [
+      2,
+      10
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "gq.svg",
+    "colors": [
+      "#0073ce",
+      "#009a3b",
+      "#3e9a00",
+      "#73452b",
+      "#a36629",
+      "#e32118",
+      "#fff"
+    ]
+  },
+  {
+    "code": "gw",
+    "alpha3": "GNB",
+    "numeric": "624",
+    "name": "Guinea-Bissau",
+    "nameEn": "Guinea-Bissau",
+    "capital": [
+      "Bissau"
+    ],
+    "region": "Afrika",
+    "subregion": "Western Africa",
+    "area": 36125,
+    "latlng": [
+      12,
+      -15
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "gw.svg",
+    "colors": [
+      "#000001",
+      "#009e49",
+      "#ce1126",
+      "#fcd116"
+    ]
+  },
+  {
+    "code": "gy",
+    "alpha3": "GUY",
+    "numeric": "328",
+    "name": "Guyana",
+    "nameEn": "Guyana",
+    "capital": [
+      "Georgetown"
+    ],
+    "region": "Amerika",
+    "subregion": "South America",
+    "area": 214969,
+    "latlng": [
+      5,
+      -59
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "gy.svg",
+    "colors": [
+      "#000001",
+      "#399408",
+      "#de2110",
+      "#ffde08",
+      "#fff"
+    ]
+  },
+  {
+    "code": "gf",
+    "alpha3": "GUF",
+    "numeric": "254",
+    "name": "Guyana Perancis",
+    "nameEn": "French Guiana",
+    "capital": [
+      "Cayenne"
+    ],
+    "region": "Amerika",
+    "subregion": "South America",
+    "area": 83534,
+    "latlng": [
+      4,
+      -53
+    ],
+    "difficulty": 4,
+    "independent": false,
+    "unMember": false,
+    "flag": "gf.svg",
+    "colors": [
+      "#000091",
+      "#e1000f",
+      "#fff"
+    ]
+  },
+  {
+    "code": "ht",
+    "alpha3": "HTI",
+    "numeric": "332",
+    "name": "Haiti",
+    "nameEn": "Haiti",
+    "capital": [
+      "Port-au-Prince"
+    ],
+    "region": "Amerika",
+    "subregion": "Caribbean",
+    "area": 27750,
+    "latlng": [
+      19,
+      -72.41666666
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "ht.svg",
+    "colors": [
+      "#000001",
+      "#00209f",
+      "#016a16",
+      "#0a328c",
+      "#503200",
+      "#d20014",
+      "#d21034",
+      "#f1b517",
+      "#fff"
+    ]
+  },
+  {
+    "code": "hn",
+    "alpha3": "HND",
+    "numeric": "340",
+    "name": "Honduras",
+    "nameEn": "Honduras",
+    "capital": [
+      "Tegucigalpa"
+    ],
+    "region": "Amerika",
+    "subregion": "Central America",
+    "area": 112492,
+    "latlng": [
+      15,
+      -86.5
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "hn.svg",
+    "colors": [
+      "#18c3df",
+      "#fff"
+    ]
+  },
+  {
+    "code": "hk",
+    "alpha3": "HKG",
+    "numeric": "344",
+    "name": "Hong Kong",
+    "nameEn": "Hong Kong",
+    "capital": [
+      "City of Victoria"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "area": 1104,
+    "latlng": [
+      22.267,
+      114.188
+    ],
+    "difficulty": 2,
+    "independent": false,
+    "unMember": false,
+    "flag": "hk.svg",
+    "colors": [
+      "#ec1b2e",
+      "#fff"
+    ]
+  },
+  {
+    "code": "hu",
+    "alpha3": "HUN",
+    "numeric": "348",
+    "name": "Hungaria",
+    "nameEn": "Hungary",
+    "capital": [
+      "Budapest"
+    ],
+    "region": "Eropa",
+    "subregion": "Central Europe",
+    "area": 93028,
+    "latlng": [
+      47,
+      20
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "hu.svg",
+    "colors": [
+      "#388d00",
+      "#d43516",
+      "#fff"
+    ]
+  },
+  {
+    "code": "in",
+    "alpha3": "IND",
+    "numeric": "356",
+    "name": "India",
+    "nameEn": "India",
+    "capital": [
+      "New Delhi"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "area": 3287590,
+    "latlng": [
+      20,
+      77
+    ],
+    "difficulty": 1,
+    "independent": true,
+    "unMember": true,
+    "flag": "in.svg",
+    "colors": [
+      "#008",
+      "#128807",
+      "#f93",
+      "#fff"
+    ]
+  },
+  {
+    "code": "id",
+    "alpha3": "IDN",
+    "numeric": "360",
+    "name": "Indonesia",
+    "nameEn": "Indonesia",
+    "capital": [
+      "Jakarta"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "area": 1904569,
+    "latlng": [
+      -5,
+      120
+    ],
+    "difficulty": 1,
+    "independent": true,
+    "unMember": true,
+    "flag": "id.svg",
+    "colors": [
+      "#e70011",
+      "#fff"
+    ]
+  },
+  {
+    "code": "iq",
+    "alpha3": "IRQ",
+    "numeric": "368",
+    "name": "Irak",
+    "nameEn": "Iraq",
+    "capital": [
+      "Baghdad"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "area": 438317,
+    "latlng": [
+      33,
+      44
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "iq.svg",
+    "colors": [
+      "#000001",
+      "#007a3d",
+      "#ce1126",
+      "#fff"
+    ]
+  },
+  {
+    "code": "ir",
+    "alpha3": "IRN",
+    "numeric": "364",
+    "name": "Iran",
+    "nameEn": "Iran",
+    "capital": [
+      "Tehran"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "area": 1648195,
+    "latlng": [
+      32,
+      53
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "ir.svg",
+    "colors": [
+      "#239e3f",
+      "#239f40",
+      "#d90000",
+      "#da0000",
+      "#fff"
+    ]
+  },
+  {
+    "code": "ie",
+    "alpha3": "IRL",
+    "numeric": "372",
+    "name": "Irlandia",
+    "nameEn": "Ireland",
+    "capital": [
+      "Dublin"
+    ],
+    "region": "Eropa",
+    "subregion": "Northern Europe",
+    "area": 70273,
+    "latlng": [
+      53,
+      -8
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "ie.svg",
+    "colors": [
+      "#009a49",
+      "#ff7900",
+      "#fff"
+    ]
+  },
+  {
+    "code": "is",
+    "alpha3": "ISL",
+    "numeric": "352",
+    "name": "Islandia",
+    "nameEn": "Iceland",
+    "capital": [
+      "Reykjavik"
+    ],
+    "region": "Eropa",
+    "subregion": "Northern Europe",
+    "area": 103000,
+    "latlng": [
+      65,
+      -18
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "is.svg",
+    "colors": [
+      "#003897",
+      "#d72828",
+      "#fff"
+    ]
+  },
+  {
+    "code": "im",
+    "alpha3": "IMN",
+    "numeric": "833",
+    "name": "Isle of Man",
+    "nameEn": "Isle of Man",
+    "capital": [
+      "Douglas"
+    ],
+    "region": "Eropa",
+    "subregion": "Northern Europe",
+    "area": 572,
+    "latlng": [
+      54.25,
+      -4.5
+    ],
+    "difficulty": 3,
+    "independent": false,
+    "unMember": false,
+    "flag": "im.svg",
+    "colors": [
+      "#ba0000",
+      "#ffe606",
+      "#ffec00",
+      "#ffef00",
+      "#fff"
+    ]
+  },
+  {
+    "code": "il",
+    "alpha3": "ISR",
+    "numeric": "376",
+    "name": "Israel",
+    "nameEn": "Israel",
+    "capital": [
+      "Jerusalem"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "area": 20770,
+    "latlng": [
+      31.47,
+      35.13
+    ],
+    "difficulty": 1,
+    "independent": true,
+    "unMember": true,
+    "flag": "il.svg",
+    "colors": [
+      "#0038b8",
+      "#fff"
+    ]
+  },
+  {
+    "code": "it",
+    "alpha3": "ITA",
+    "numeric": "380",
+    "name": "Italia",
+    "nameEn": "Italy",
+    "capital": [
+      "Rome"
+    ],
+    "region": "Eropa",
+    "subregion": "Southern Europe",
+    "area": 301336,
+    "latlng": [
+      42.83333333,
+      12.83333333
+    ],
+    "difficulty": 1,
+    "independent": true,
+    "unMember": true,
+    "flag": "it.svg",
+    "colors": [
+      "#009246",
+      "#ce2b37",
+      "#fff"
+    ]
+  },
+  {
+    "code": "jm",
+    "alpha3": "JAM",
+    "numeric": "388",
+    "name": "Jamaika",
+    "nameEn": "Jamaica",
+    "capital": [
+      "Kingston"
+    ],
+    "region": "Amerika",
+    "subregion": "Caribbean",
+    "area": 10991,
+    "latlng": [
+      18.25,
+      -77.5
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "jm.svg",
+    "colors": [
+      "#000001",
+      "#090",
+      "#fc0"
+    ]
+  },
+  {
+    "code": "jp",
+    "alpha3": "JPN",
+    "numeric": "392",
+    "name": "Jepang",
+    "nameEn": "Japan",
+    "capital": [
+      "Tokyo"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "area": 377930,
+    "latlng": [
+      36,
+      138
+    ],
+    "difficulty": 1,
+    "independent": true,
+    "unMember": true,
+    "flag": "jp.svg",
+    "colors": [
+      "#bc002d",
+      "#fff"
+    ]
+  },
+  {
+    "code": "de",
+    "alpha3": "DEU",
+    "numeric": "276",
+    "name": "Jerman",
+    "nameEn": "Germany",
+    "capital": [
+      "Berlin"
+    ],
+    "region": "Eropa",
+    "subregion": "Western Europe",
+    "area": 357114,
+    "latlng": [
+      51,
+      9
+    ],
+    "difficulty": 1,
+    "independent": true,
+    "unMember": true,
+    "flag": "de.svg",
+    "colors": [
+      "#000001",
+      "#fc0"
+    ]
+  },
+  {
+    "code": "je",
+    "alpha3": "JEY",
+    "numeric": "832",
+    "name": "Jersey",
+    "nameEn": "Jersey",
+    "capital": [
+      "Saint Helier"
+    ],
+    "region": "Eropa",
+    "subregion": "Northern Europe",
+    "area": 116,
+    "latlng": [
+      49.25,
+      -2.16666666
+    ],
+    "difficulty": 3,
+    "independent": false,
+    "unMember": false,
+    "flag": "je.svg",
+    "colors": [
+      "#2b2200",
+      "#377bc8",
+      "#504416",
+      "#806600",
+      "#cf142b",
+      "#d1b948",
+      "#fff"
+    ]
+  },
+  {
+    "code": "nc",
+    "alpha3": "NCL",
+    "numeric": "540",
+    "name": "Kaledonia Baru",
+    "nameEn": "New Caledonia",
+    "capital": [
+      "Nouméa"
+    ],
+    "region": "Oseania",
+    "subregion": "Melanesia",
+    "area": 18575,
+    "latlng": [
+      -21.5,
+      165.5
+    ],
+    "difficulty": 2,
+    "independent": false,
+    "unMember": false,
+    "flag": "nc.svg",
+    "colors": [
+      "#000001",
+      "#0072ce",
+      "#009639",
+      "#e03c31",
+      "#fedb00"
+    ]
+  },
+  {
+    "code": "kh",
+    "alpha3": "KHM",
+    "numeric": "116",
+    "name": "Kamboja",
+    "nameEn": "Cambodia",
+    "capital": [
+      "Phnom Penh"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "area": 181035,
+    "latlng": [
+      13,
+      105
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "kh.svg",
+    "colors": [
+      "#032ea1",
+      "#e00025",
+      "#fff"
+    ]
+  },
+  {
+    "code": "cm",
+    "alpha3": "CMR",
+    "numeric": "120",
+    "name": "Kamerun",
+    "nameEn": "Cameroon",
+    "capital": [
+      "Yaoundé"
+    ],
+    "region": "Afrika",
+    "subregion": "Middle Africa",
+    "area": 475442,
+    "latlng": [
+      6,
+      12
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "cm.svg",
+    "colors": [
+      "#007a5e",
+      "#ce1126",
+      "#fcd116"
+    ]
+  },
+  {
+    "code": "ca",
+    "alpha3": "CAN",
+    "numeric": "124",
+    "name": "Kanada",
+    "nameEn": "Canada",
+    "capital": [
+      "Ottawa"
+    ],
+    "region": "Amerika",
+    "subregion": "North America",
+    "area": 9984670,
+    "latlng": [
+      60,
+      -95
+    ],
+    "difficulty": 1,
+    "independent": true,
+    "unMember": true,
+    "flag": "ca.svg",
+    "colors": [
+      "#d52b1e",
+      "#fff"
+    ]
+  },
+  {
+    "code": "kz",
+    "alpha3": "KAZ",
+    "numeric": "398",
+    "name": "Kazakhstan",
+    "nameEn": "Kazakhstan",
+    "capital": [
+      "Astana"
+    ],
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "area": 2724900,
+    "latlng": [
+      48,
+      68
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "kz.svg",
+    "colors": [
+      "#00abc2",
+      "#ffec2d"
+    ]
+  },
+  {
+    "code": "ke",
+    "alpha3": "KEN",
+    "numeric": "404",
+    "name": "Kenya",
+    "nameEn": "Kenya",
+    "capital": [
+      "Nairobi"
+    ],
+    "region": "Afrika",
+    "subregion": "Eastern Africa",
+    "area": 580367,
+    "latlng": [
+      1,
+      38
+    ],
+    "difficulty": 1,
+    "independent": true,
+    "unMember": true,
+    "flag": "ke.svg",
+    "colors": [
+      "#000001",
+      "#060",
+      "#b00",
+      "#fff"
+    ]
+  },
+  {
+    "code": "bv",
+    "alpha3": "BVT",
+    "numeric": "074",
+    "name": "Kepulauan Bouvet",
+    "nameEn": "Bouvet Island",
+    "capital": [],
+    "region": "Antarktika",
+    "subregion": "",
+    "area": 49,
+    "latlng": [
+      -54.43333333,
+      3.4
+    ],
+    "difficulty": 4,
+    "independent": false,
+    "unMember": false,
+    "flag": "bv.svg",
+    "colors": [
+      "#003897",
+      "#d72828",
+      "#fff"
+    ]
+  },
+  {
+    "code": "ky",
+    "alpha3": "CYM",
+    "numeric": "136",
+    "name": "Kepulauan Cayman",
+    "nameEn": "Cayman Islands",
+    "capital": [
+      "George Town"
+    ],
+    "region": "Amerika",
+    "subregion": "Caribbean",
+    "area": 264,
+    "latlng": [
+      19.5,
+      -80.5
+    ],
+    "difficulty": 3,
+    "independent": false,
+    "unMember": false,
+    "flag": "ky.svg",
+    "colors": [
+      "#000001",
+      "#00493d",
+      "#006",
+      "#012169",
+      "#024919",
+      "#059334",
+      "#073163",
+      "#0b50a0",
+      "#c8102e",
+      "#f9d050",
+      "#fcea83",
+      "#fff"
+    ]
+  },
+  {
+    "code": "cc",
+    "alpha3": "CCK",
+    "numeric": "166",
+    "name": "Kepulauan Cocos (Keeling)",
+    "nameEn": "Cocos (Keeling) Islands",
+    "capital": [
+      "West Island"
+    ],
+    "region": "Oseania",
+    "subregion": "Australia and New Zealand",
+    "area": 14,
+    "latlng": [
+      -12.5,
+      96.83333333
+    ],
+    "difficulty": 4,
+    "independent": false,
+    "unMember": false,
+    "flag": "cc.svg",
+    "colors": [
+      "#802000",
+      "#ffe000"
+    ]
+  },
+  {
+    "code": "ck",
+    "alpha3": "COK",
+    "numeric": "184",
+    "name": "Kepulauan Cook",
+    "nameEn": "Cook Islands",
+    "capital": [
+      "Avarua"
+    ],
+    "region": "Oseania",
+    "subregion": "Polynesia",
+    "area": 236,
+    "latlng": [
+      -21.23333333,
+      -159.76666666
+    ],
+    "difficulty": 4,
+    "independent": false,
+    "unMember": false,
+    "flag": "ck.svg",
+    "colors": [
+      "#006",
+      "#c8102e",
+      "#fff"
+    ]
+  },
+  {
+    "code": "fk",
+    "alpha3": "FLK",
+    "numeric": "238",
+    "name": "Kepulauan Falkland(Malvinas)",
+    "nameEn": "Falkland Islands",
+    "capital": [
+      "Stanley"
+    ],
+    "region": "Amerika",
+    "subregion": "South America",
+    "area": 12173,
+    "latlng": [
+      -51.75,
+      -59
+    ],
+    "difficulty": 3,
+    "independent": false,
+    "unMember": false,
+    "flag": "fk.svg",
+    "colors": [
+      "#005120",
+      "#0072c4",
+      "#012169",
+      "#b6b6b4",
+      "#bcbcbc",
+      "#be0f17",
+      "#c4c4c2",
+      "#c8102e",
+      "#dd8b59",
+      "#fecf3e",
+      "#fefefe",
+      "#fff"
+    ]
+  },
+  {
+    "code": "fo",
+    "alpha3": "FRO",
+    "numeric": "234",
+    "name": "Kepulauan Faroe",
+    "nameEn": "Faroe Islands",
+    "capital": [
+      "Tórshavn"
+    ],
+    "region": "Eropa",
+    "subregion": "Northern Europe",
+    "area": 1393,
+    "latlng": [
+      62,
+      -7
+    ],
+    "difficulty": 2,
+    "independent": false,
+    "unMember": false,
+    "flag": "fo.svg",
+    "colors": [
+      "#003897",
+      "#d72828",
+      "#fff"
+    ]
+  },
+  {
+    "code": "mp",
+    "alpha3": "MNP",
+    "numeric": "580",
+    "name": "Kepulauan Mariana Utara",
+    "nameEn": "Northern Mariana Islands",
+    "capital": [
+      "Saipan"
+    ],
+    "region": "Oseania",
+    "subregion": "Micronesia",
+    "area": 464,
+    "latlng": [
+      15.2,
+      145.75
+    ],
+    "difficulty": 3,
+    "independent": false,
+    "unMember": false,
+    "flag": "mp.svg",
+    "colors": [
+      "#0071bc",
+      "#217900",
+      "#6b18b5",
+      "#8c1800",
+      "#8c8a8c",
+      "#de2010",
+      "#f7df73",
+      "#ffd200",
+      "#ffe300",
+      "#fff"
+    ]
+  },
+  {
+    "code": "mh",
+    "alpha3": "MHL",
+    "numeric": "584",
+    "name": "Kepulauan Marshall",
+    "nameEn": "Marshall Islands",
+    "capital": [
+      "Majuro"
+    ],
+    "region": "Oseania",
+    "subregion": "Micronesia",
+    "area": 181,
+    "latlng": [
+      9,
+      168
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "mh.svg",
+    "colors": [
+      "#3b5aa3",
+      "#e2ae57",
+      "#fff"
+    ]
+  },
+  {
+    "code": "nf",
+    "alpha3": "NFK",
+    "numeric": "574",
+    "name": "Kepulauan Norfolk",
+    "nameEn": "Norfolk Island",
+    "capital": [
+      "Kingston"
+    ],
+    "region": "Oseania",
+    "subregion": "Australia and New Zealand",
+    "area": 36,
+    "latlng": [
+      -29.03333333,
+      167.95
+    ],
+    "difficulty": 4,
+    "independent": false,
+    "unMember": false,
+    "flag": "nf.svg",
+    "colors": [
+      "#198200",
+      "#fff"
+    ]
+  },
+  {
+    "code": "sb",
+    "alpha3": "SLB",
+    "numeric": "090",
+    "name": "Kepulauan Solomon",
+    "nameEn": "Solomon Islands",
+    "capital": [
+      "Honiara"
+    ],
+    "region": "Oseania",
+    "subregion": "Melanesia",
+    "area": 28896,
+    "latlng": [
+      -8,
+      159
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "sb.svg",
+    "colors": [
+      "#0000d6",
+      "#006000",
+      "#fc0",
+      "#fff"
+    ]
+  },
+  {
+    "code": "ki",
+    "alpha3": "KIR",
+    "numeric": "296",
+    "name": "Kiribati",
+    "nameEn": "Kiribati",
+    "capital": [
+      "South Tarawa"
+    ],
+    "region": "Oseania",
+    "subregion": "Micronesia",
+    "area": 811,
+    "latlng": [
+      1.41666666,
+      173
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "ki.svg",
+    "colors": [
+      "#005989",
+      "#e73e2d",
+      "#fec74a",
+      "#ffc84b",
+      "#fff"
+    ]
+  },
+  {
+    "code": "co",
+    "alpha3": "COL",
+    "numeric": "170",
+    "name": "Kolombia",
+    "nameEn": "Colombia",
+    "capital": [
+      "Bogotá"
+    ],
+    "region": "Amerika",
+    "subregion": "South America",
+    "area": 1141748,
+    "latlng": [
+      4,
+      -72
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "co.svg",
+    "colors": [
+      "#00148e",
+      "#da0010",
+      "#ffe800"
+    ]
+  },
+  {
+    "code": "km",
+    "alpha3": "COM",
+    "numeric": "174",
+    "name": "Komoro",
+    "nameEn": "Comoros",
+    "capital": [
+      "Moroni"
+    ],
+    "region": "Afrika",
+    "subregion": "Eastern Africa",
+    "area": 1862,
+    "latlng": [
+      -12.16666666,
+      44.25
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "km.svg",
+    "colors": [
+      "#239e46",
+      "#3b5aa3",
+      "#be0027",
+      "#ff0",
+      "#fff"
+    ]
+  },
+  {
+    "code": "kr",
+    "alpha3": "KOR",
+    "numeric": "410",
+    "name": "Korea Selatan",
+    "nameEn": "South Korea",
+    "capital": [
+      "Seoul"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "area": 100210,
+    "latlng": [
+      37,
+      127.5
+    ],
+    "difficulty": 1,
+    "independent": true,
+    "unMember": true,
+    "flag": "kr.svg",
+    "colors": [
+      "#000001",
+      "#0047a0",
+      "#cd2e3a",
+      "#fff"
+    ]
+  },
+  {
+    "code": "kp",
+    "alpha3": "PRK",
+    "numeric": "408",
+    "name": "Korea Utara",
+    "nameEn": "North Korea",
+    "capital": [
+      "Pyongyang"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "area": 120538,
+    "latlng": [
+      40,
+      127
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "kp.svg",
+    "colors": [
+      "#3e5698",
+      "#c40000",
+      "#c60000",
+      "#fff"
+    ]
+  },
+  {
+    "code": "xk",
+    "alpha3": "UNK",
+    "numeric": "",
+    "name": "Kosovo",
+    "nameEn": "Kosovo",
+    "capital": [
+      "Pristina"
+    ],
+    "region": "Eropa",
+    "subregion": "Southeast Europe",
+    "area": 10908,
+    "latlng": [
+      42.666667,
+      21.166667
+    ],
+    "difficulty": 3,
+    "independent": false,
+    "unMember": false,
+    "flag": "xk.svg",
+    "colors": [
+      "#244aa5",
+      "#d0a650",
+      "#fff"
+    ]
+  },
+  {
+    "code": "cr",
+    "alpha3": "CRI",
+    "numeric": "188",
+    "name": "Kosta Rika",
+    "nameEn": "Costa Rica",
+    "capital": [
+      "San José"
+    ],
+    "region": "Amerika",
+    "subregion": "Central America",
+    "area": 51100,
+    "latlng": [
+      10,
+      -84
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "cr.svg",
+    "colors": [
+      "#0000b4",
+      "#d90000",
+      "#fff"
+    ]
+  },
+  {
+    "code": "hr",
+    "alpha3": "HRV",
+    "numeric": "191",
+    "name": "Kroasia",
+    "nameEn": "Croatia",
+    "capital": [
+      "Zagreb"
+    ],
+    "region": "Eropa",
+    "subregion": "Southeast Europe",
+    "area": 56594,
+    "latlng": [
+      45.16666666,
+      15.5
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "hr.svg",
+    "colors": [
+      "#0093dd",
+      "#171796",
+      "#f7db17",
+      "#fff"
+    ]
+  },
+  {
+    "code": "cu",
+    "alpha3": "CUB",
+    "numeric": "192",
+    "name": "Kuba",
+    "nameEn": "Cuba",
+    "capital": [
+      "Havana"
+    ],
+    "region": "Amerika",
+    "subregion": "Caribbean",
+    "area": 109884,
+    "latlng": [
+      21.5,
+      -80
+    ],
+    "difficulty": 1,
+    "independent": true,
+    "unMember": true,
+    "flag": "cu.svg",
+    "colors": [
+      "#002a8f",
+      "#cb1515",
+      "#fff"
+    ]
+  },
+  {
+    "code": "kw",
+    "alpha3": "KWT",
+    "numeric": "414",
+    "name": "Kuwait",
+    "nameEn": "Kuwait",
+    "capital": [
+      "Kuwait City"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "area": 17818,
+    "latlng": [
+      29.5,
+      45.75
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "kw.svg",
+    "colors": [
+      "#000001",
+      "#00d941",
+      "#f31830",
+      "#fff"
+    ]
+  },
+  {
+    "code": "kg",
+    "alpha3": "KGZ",
+    "numeric": "417",
+    "name": "Kyrgyzstan",
+    "nameEn": "Kyrgyzstan",
+    "capital": [
+      "Bishkek"
+    ],
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "area": 199951,
+    "latlng": [
+      41,
+      75
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "kg.svg",
+    "colors": [
+      "#ff0"
+    ]
+  },
+  {
+    "code": "la",
+    "alpha3": "LAO",
+    "numeric": "418",
+    "name": "Laos",
+    "nameEn": "Laos",
+    "capital": [
+      "Vientiane"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "area": 236800,
+    "latlng": [
+      18,
+      105
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "la.svg",
+    "colors": [
+      "#002868",
+      "#ce1126",
+      "#fff"
+    ]
+  },
+  {
+    "code": "lv",
+    "alpha3": "LVA",
+    "numeric": "428",
+    "name": "Latvia",
+    "nameEn": "Latvia",
+    "capital": [
+      "Riga"
+    ],
+    "region": "Eropa",
+    "subregion": "Northern Europe",
+    "area": 64559,
+    "latlng": [
+      57,
+      25
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "lv.svg",
+    "colors": [
+      "#981e32",
+      "#fff"
+    ]
+  },
+  {
+    "code": "lb",
+    "alpha3": "LBN",
+    "numeric": "422",
+    "name": "Lebanon",
+    "nameEn": "Lebanon",
+    "capital": [
+      "Beirut"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "area": 10452,
+    "latlng": [
+      33.83333333,
+      35.83333333
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "lb.svg",
+    "colors": [
+      "#00a850",
+      "#ee161f",
+      "#fff"
+    ]
+  },
+  {
+    "code": "ls",
+    "alpha3": "LSO",
+    "numeric": "426",
+    "name": "Lesotho",
+    "nameEn": "Lesotho",
+    "capital": [
+      "Maseru"
+    ],
+    "region": "Afrika",
+    "subregion": "Southern Africa",
+    "area": 30355,
+    "latlng": [
+      -29.5,
+      28.5
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "ls.svg",
+    "colors": [
+      "#00209f",
+      "#009543",
+      "#fff"
+    ]
+  },
+  {
+    "code": "lr",
+    "alpha3": "LBR",
+    "numeric": "430",
+    "name": "Liberia",
+    "nameEn": "Liberia",
+    "capital": [
+      "Monrovia"
+    ],
+    "region": "Afrika",
+    "subregion": "Western Africa",
+    "area": 111369,
+    "latlng": [
+      6.5,
+      -9.5
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "lr.svg",
+    "colors": [
+      "#006",
+      "#c00",
+      "#fff"
+    ]
+  },
+  {
+    "code": "ly",
+    "alpha3": "LBY",
+    "numeric": "434",
+    "name": "Libya",
+    "nameEn": "Libya",
+    "capital": [
+      "Tripoli"
+    ],
+    "region": "Afrika",
+    "subregion": "Northern Africa",
+    "area": 1759540,
+    "latlng": [
+      25,
+      17
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "ly.svg",
+    "colors": [
+      "#000001",
+      "#239e46",
+      "#e70013",
+      "#fff"
+    ]
+  },
+  {
+    "code": "li",
+    "alpha3": "LIE",
+    "numeric": "438",
+    "name": "Liechtenstein",
+    "nameEn": "Liechtenstein",
+    "capital": [
+      "Vaduz"
+    ],
+    "region": "Eropa",
+    "subregion": "Western Europe",
+    "area": 160,
+    "latlng": [
+      47.26666666,
+      9.53333333
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "li.svg",
+    "colors": [
+      "#000001",
+      "#002b7f",
+      "#ce1126",
+      "#ffd83d"
+    ]
+  },
+  {
+    "code": "lt",
+    "alpha3": "LTU",
+    "numeric": "440",
+    "name": "Lithuania",
+    "nameEn": "Lithuania",
+    "capital": [
+      "Vilnius"
+    ],
+    "region": "Eropa",
+    "subregion": "Northern Europe",
+    "area": 65300,
+    "latlng": [
+      56,
+      24
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "lt.svg",
+    "colors": [
+      "#006a44",
+      "#c1272d",
+      "#fdb913"
+    ]
+  },
+  {
+    "code": "lu",
+    "alpha3": "LUX",
+    "numeric": "442",
+    "name": "Luxemburg",
+    "nameEn": "Luxembourg",
+    "capital": [
+      "Luxembourg"
+    ],
+    "region": "Eropa",
+    "subregion": "Western Europe",
+    "area": 2586,
+    "latlng": [
+      49.75,
+      6.16666666
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "lu.svg",
+    "colors": [
+      "#00a1de",
+      "#ed2939",
+      "#fff"
+    ]
+  },
+  {
+    "code": "mg",
+    "alpha3": "MDG",
+    "numeric": "450",
+    "name": "Madagaskar",
+    "nameEn": "Madagascar",
+    "capital": [
+      "Antananarivo"
+    ],
+    "region": "Afrika",
+    "subregion": "Eastern Africa",
+    "area": 587041,
+    "latlng": [
+      -20,
+      47
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "mg.svg",
+    "colors": [
+      "#007e3a",
+      "#fc3d32",
+      "#fff"
+    ]
+  },
+  {
+    "code": "mo",
+    "alpha3": "MAC",
+    "numeric": "446",
+    "name": "Makau",
+    "nameEn": "Macau",
+    "capital": [],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "area": 30,
+    "latlng": [
+      22.16666666,
+      113.55
+    ],
+    "difficulty": 3,
+    "independent": false,
+    "unMember": false,
+    "flag": "mo.svg",
+    "colors": [
+      "#00785e",
+      "#fbd116",
+      "#fff"
+    ]
+  },
+  {
+    "code": "mk",
+    "alpha3": "MKD",
+    "numeric": "807",
+    "name": "Makedonia Utara",
+    "nameEn": "North Macedonia",
+    "capital": [
+      "Skopje"
+    ],
+    "region": "Eropa",
+    "subregion": "Southeast Europe",
+    "area": 25713,
+    "latlng": [
+      41.83333333,
+      22
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "mk.svg",
+    "colors": [
+      "#d20000",
+      "#ffe600"
+    ]
+  },
+  {
+    "code": "mw",
+    "alpha3": "MWI",
+    "numeric": "454",
+    "name": "Malawi",
+    "nameEn": "Malawi",
+    "capital": [
+      "Lilongwe"
+    ],
+    "region": "Afrika",
+    "subregion": "Eastern Africa",
+    "area": 118484,
+    "latlng": [
+      -13.5,
+      34
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "mw.svg",
+    "colors": [
+      "#000001",
+      "#21873b",
+      "#f31509",
+      "#f41408"
+    ]
+  },
+  {
+    "code": "my",
+    "alpha3": "MYS",
+    "numeric": "458",
+    "name": "Malaysia",
+    "nameEn": "Malaysia",
+    "capital": [
+      "Kuala Lumpur"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "area": 330803,
+    "latlng": [
+      2.5,
+      112.5
+    ],
+    "difficulty": 1,
+    "independent": true,
+    "unMember": true,
+    "flag": "my.svg",
+    "colors": [
+      "#006",
+      "#c00",
+      "#fc0",
+      "#fff"
+    ]
+  },
+  {
+    "code": "mv",
+    "alpha3": "MDV",
+    "numeric": "462",
+    "name": "Maldives",
+    "nameEn": "Maldives",
+    "capital": [
+      "Malé"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "area": 300,
+    "latlng": [
+      3.25,
+      73
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "mv.svg",
+    "colors": [
+      "#007e3a",
+      "#d21034",
+      "#fff"
+    ]
+  },
+  {
+    "code": "ml",
+    "alpha3": "MLI",
+    "numeric": "466",
+    "name": "Mali",
+    "nameEn": "Mali",
+    "capital": [
+      "Bamako"
+    ],
+    "region": "Afrika",
+    "subregion": "Western Africa",
+    "area": 1240192,
+    "latlng": [
+      17,
+      -4
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "ml.svg",
+    "colors": [
+      "#009a00",
+      "#ff0"
+    ]
+  },
+  {
+    "code": "mt",
+    "alpha3": "MLT",
+    "numeric": "470",
+    "name": "Malta",
+    "nameEn": "Malta",
+    "capital": [
+      "Valletta"
+    ],
+    "region": "Eropa",
+    "subregion": "Southern Europe",
+    "area": 316,
+    "latlng": [
+      35.83333333,
+      14.58333333
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "mt.svg",
+    "colors": [
+      "#cf142b",
+      "#fff"
+    ]
+  },
+  {
+    "code": "mq",
+    "alpha3": "MTQ",
+    "numeric": "474",
+    "name": "Martinik",
+    "nameEn": "Martinique",
+    "capital": [
+      "Fort-de-France"
+    ],
+    "region": "Amerika",
+    "subregion": "Caribbean",
+    "area": 1128,
+    "latlng": [
+      14.666667,
+      -61
+    ],
+    "difficulty": 4,
+    "independent": false,
+    "unMember": false,
+    "flag": "mq.svg",
+    "colors": [
+      "#00a650",
+      "#231f1e",
+      "#ef1923"
+    ]
+  },
+  {
+    "code": "mr",
+    "alpha3": "MRT",
+    "numeric": "478",
+    "name": "Mauritania",
+    "nameEn": "Mauritania",
+    "capital": [
+      "Nouakchott"
+    ],
+    "region": "Afrika",
+    "subregion": "Western Africa",
+    "area": 1030700,
+    "latlng": [
+      20,
+      -12
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "mr.svg",
+    "colors": [
+      "#006233",
+      "#cd2a3e",
+      "#ffc400"
+    ]
+  },
+  {
+    "code": "mu",
+    "alpha3": "MUS",
+    "numeric": "480",
+    "name": "Mauritius",
+    "nameEn": "Mauritius",
+    "capital": [
+      "Port Louis"
+    ],
+    "region": "Afrika",
+    "subregion": "Eastern Africa",
+    "area": 2040,
+    "latlng": [
+      -20.28333333,
+      57.55
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "mu.svg",
+    "colors": [
+      "#00a04d",
+      "#151f6d",
+      "#ee2737",
+      "#ffcd00"
+    ]
+  },
+  {
+    "code": "yt",
+    "alpha3": "MYT",
+    "numeric": "175",
+    "name": "Mayotte",
+    "nameEn": "Mayotte",
+    "capital": [
+      "Mamoudzou"
+    ],
+    "region": "Afrika",
+    "subregion": "Eastern Africa",
+    "area": 374,
+    "latlng": [
+      -12.83333333,
+      45.16666666
+    ],
+    "difficulty": 4,
+    "independent": false,
+    "unMember": false,
+    "flag": "yt.svg",
+    "colors": [
+      "#000091",
+      "#e1000f",
+      "#fff"
+    ]
+  },
+  {
+    "code": "mx",
+    "alpha3": "MEX",
+    "numeric": "484",
+    "name": "Meksiko",
+    "nameEn": "Mexico",
+    "capital": [
+      "Mexico City"
+    ],
+    "region": "Amerika",
+    "subregion": "North America",
+    "area": 1964375,
+    "latlng": [
+      23,
+      -102
+    ],
+    "difficulty": 1,
+    "independent": true,
+    "unMember": true,
+    "flag": "mx.svg",
+    "colors": [
+      "#006847",
+      "#016848",
+      "#04534e",
+      "#0c8489",
+      "#171717",
+      "#1c242f",
+      "#1e2121",
+      "#202020",
+      "#202220",
+      "#231f20",
+      "#30c2dc",
+      "#312317"
+    ]
+  },
+  {
+    "code": "eg",
+    "alpha3": "EGY",
+    "numeric": "818",
+    "name": "Mesir",
+    "nameEn": "Egypt",
+    "capital": [
+      "Cairo"
+    ],
+    "region": "Afrika",
+    "subregion": "Northern Africa",
+    "area": 1002450,
+    "latlng": [
+      27,
+      30
+    ],
+    "difficulty": 1,
+    "independent": true,
+    "unMember": true,
+    "flag": "eg.svg",
+    "colors": [
+      "#000001",
+      "#c09300",
+      "#ce1126",
+      "#fff"
+    ]
+  },
+  {
+    "code": "md",
+    "alpha3": "MDA",
+    "numeric": "498",
+    "name": "Moldova",
+    "nameEn": "Moldova",
+    "capital": [
+      "Chișinău"
+    ],
+    "region": "Eropa",
+    "subregion": "Eastern Europe",
+    "area": 33846,
+    "latlng": [
+      47,
+      29
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "md.svg",
+    "colors": [
+      "#00319c",
+      "#008500",
+      "#008f00",
+      "#564dff",
+      "#a77b3b",
+      "#cac9c7",
+      "#da4500",
+      "#de2110",
+      "#ff0",
+      "#ff1900",
+      "#ffde00"
+    ]
+  },
+  {
+    "code": "mc",
+    "alpha3": "MCO",
+    "numeric": "492",
+    "name": "Monako",
+    "nameEn": "Monaco",
+    "capital": [
+      "Monaco"
+    ],
+    "region": "Eropa",
+    "subregion": "Western Europe",
+    "area": 2.02,
+    "latlng": [
+      43.73333333,
+      7.4
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "mc.svg",
+    "colors": [
+      "#f31830",
+      "#fff"
+    ]
+  },
+  {
+    "code": "mn",
+    "alpha3": "MNG",
+    "numeric": "496",
+    "name": "Mongolia",
+    "nameEn": "Mongolia",
+    "capital": [
+      "Ulan Bator"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "area": 1564110,
+    "latlng": [
+      46,
+      105
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "mn.svg",
+    "colors": [
+      "#0066b3",
+      "#da2032",
+      "#ffd900"
+    ]
+  },
+  {
+    "code": "me",
+    "alpha3": "MNE",
+    "numeric": "499",
+    "name": "Montenegro",
+    "nameEn": "Montenegro",
+    "capital": [
+      "Podgorica"
+    ],
+    "region": "Eropa",
+    "subregion": "Southeast Europe",
+    "area": 13812,
+    "latlng": [
+      42.5,
+      19.3
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "me.svg",
+    "colors": [
+      "#1d5e91",
+      "#6d8c3e",
+      "#b96b29",
+      "#c40308",
+      "#c52126",
+      "#d3ae3b",
+      "#d4af3a"
+    ]
+  },
+  {
+    "code": "ms",
+    "alpha3": "MSR",
+    "numeric": "500",
+    "name": "Montserrat",
+    "nameEn": "Montserrat",
+    "capital": [
+      "Plymouth"
+    ],
+    "region": "Amerika",
+    "subregion": "Caribbean",
+    "area": 102,
+    "latlng": [
+      16.75,
+      -62.2
+    ],
+    "difficulty": 3,
+    "independent": false,
+    "unMember": false,
+    "flag": "ms.svg",
+    "colors": [
+      "#008021",
+      "#00a2bd",
+      "#012169",
+      "#870f00",
+      "#a53d08",
+      "#c8102e",
+      "#ff9a08",
+      "#ffe1cf",
+      "#fff"
+    ]
+  },
+  {
+    "code": "ma",
+    "alpha3": "MAR",
+    "numeric": "504",
+    "name": "Moroko",
+    "nameEn": "Morocco",
+    "capital": [
+      "Rabat"
+    ],
+    "region": "Afrika",
+    "subregion": "Northern Africa",
+    "area": 446550,
+    "latlng": [
+      32,
+      -5
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "ma.svg",
+    "colors": [
+      "#c1272d"
+    ]
+  },
+  {
+    "code": "mz",
+    "alpha3": "MOZ",
+    "numeric": "508",
+    "name": "Mozambik",
+    "nameEn": "Mozambique",
+    "capital": [
+      "Maputo"
+    ],
+    "region": "Afrika",
+    "subregion": "Eastern Africa",
+    "area": 801590,
+    "latlng": [
+      -18.25,
+      35
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "mz.svg",
+    "colors": [
+      "#000001",
+      "#009a00",
+      "#ffca00",
+      "#fff"
+    ]
+  },
+  {
+    "code": "mm",
+    "alpha3": "MMR",
+    "numeric": "104",
+    "name": "Myanmar",
+    "nameEn": "Myanmar",
+    "capital": [
+      "Naypyidaw"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "area": 676578,
+    "latlng": [
+      22,
+      98
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "mm.svg",
+    "colors": [
+      "#34b233",
+      "#ea2839",
+      "#fecb00",
+      "#fff"
+    ]
+  },
+  {
+    "code": "na",
+    "alpha3": "NAM",
+    "numeric": "516",
+    "name": "Namibia",
+    "nameEn": "Namibia",
+    "capital": [
+      "Windhoek"
+    ],
+    "region": "Afrika",
+    "subregion": "Southern Africa",
+    "area": 825615,
+    "latlng": [
+      -22,
+      17
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "na.svg",
+    "colors": [
+      "#3662a2",
+      "#38a100",
+      "#c70000",
+      "#ffe700",
+      "#fff"
+    ]
+  },
+  {
+    "code": "nr",
+    "alpha3": "NRU",
+    "numeric": "520",
+    "name": "Nauru",
+    "nameEn": "Nauru",
+    "capital": [
+      "Yaren"
+    ],
+    "region": "Oseania",
+    "subregion": "Micronesia",
+    "area": 21,
+    "latlng": [
+      -0.53333333,
+      166.91666666
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "nr.svg",
+    "colors": [
+      "#002170",
+      "#ffb20d",
+      "#fff"
+    ]
+  },
+  {
+    "code": "np",
+    "alpha3": "NPL",
+    "numeric": "524",
+    "name": "Nepal",
+    "nameEn": "Nepal",
+    "capital": [
+      "Kathmandu"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "area": 147181,
+    "latlng": [
+      28,
+      84
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "np.svg",
+    "colors": [
+      "#ce0000",
+      "#fff"
+    ]
+  },
+  {
+    "code": "ne",
+    "alpha3": "NER",
+    "numeric": "562",
+    "name": "Niger",
+    "nameEn": "Niger",
+    "capital": [
+      "Niamey"
+    ],
+    "region": "Afrika",
+    "subregion": "Western Africa",
+    "area": 1267000,
+    "latlng": [
+      16,
+      8
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "ne.svg",
+    "colors": [
+      "#0db02b",
+      "#e05206",
+      "#fff"
+    ]
+  },
+  {
+    "code": "ng",
+    "alpha3": "NGA",
+    "numeric": "566",
+    "name": "Nigeria",
+    "nameEn": "Nigeria",
+    "capital": [
+      "Abuja"
+    ],
+    "region": "Afrika",
+    "subregion": "Western Africa",
+    "area": 923768,
+    "latlng": [
+      10,
+      8
+    ],
+    "difficulty": 1,
+    "independent": true,
+    "unMember": true,
+    "flag": "ng.svg",
+    "colors": [
+      "#008753",
+      "#fff"
+    ]
+  },
+  {
+    "code": "ni",
+    "alpha3": "NIC",
+    "numeric": "558",
+    "name": "Nikaragua",
+    "nameEn": "Nicaragua",
+    "capital": [
+      "Managua"
+    ],
+    "region": "Amerika",
+    "subregion": "Central America",
+    "area": 130373,
+    "latlng": [
+      13,
+      -85
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "ni.svg",
+    "colors": [
+      "#0067c6",
+      "#00f",
+      "#0cf",
+      "#0f0",
+      "#17c0eb",
+      "#510000",
+      "#910000",
+      "#93bc30",
+      "#97c924",
+      "#9ecb34",
+      "#c6cb24",
+      "#c8a400"
+    ]
+  },
+  {
+    "code": "nu",
+    "alpha3": "NIU",
+    "numeric": "570",
+    "name": "Niue",
+    "nameEn": "Niue",
+    "capital": [
+      "Alofi"
+    ],
+    "region": "Oseania",
+    "subregion": "Polynesia",
+    "area": 260,
+    "latlng": [
+      -19.03333333,
+      -169.86666666
+    ],
+    "difficulty": 4,
+    "independent": false,
+    "unMember": false,
+    "flag": "nu.svg",
+    "colors": [
+      "#012169",
+      "#c8102e",
+      "#fedd00",
+      "#fff"
+    ]
+  },
+  {
+    "code": "no",
+    "alpha3": "NOR",
+    "numeric": "578",
+    "name": "Norwegia",
+    "nameEn": "Norway",
+    "capital": [
+      "Oslo"
+    ],
+    "region": "Eropa",
+    "subregion": "Northern Europe",
+    "area": 323802,
+    "latlng": [
+      62,
+      10
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "no.svg",
+    "colors": [
+      "#002664",
+      "#ed2939",
+      "#fff"
+    ]
+  },
+  {
+    "code": "om",
+    "alpha3": "OMN",
+    "numeric": "512",
+    "name": "Oman",
+    "nameEn": "Oman",
+    "capital": [
+      "Muscat"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "area": 309500,
+    "latlng": [
+      21,
+      57
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "om.svg",
+    "colors": [
+      "#009025",
+      "#ef0000",
+      "#ef2d29",
+      "#fff"
+    ]
+  },
+  {
+    "code": "pk",
+    "alpha3": "PAK",
+    "numeric": "586",
+    "name": "Pakistan",
+    "nameEn": "Pakistan",
+    "capital": [
+      "Islamabad"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "area": 881912,
+    "latlng": [
+      30,
+      70
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "pk.svg",
+    "colors": [
+      "#0c590b",
+      "#fff"
+    ]
+  },
+  {
+    "code": "pw",
+    "alpha3": "PLW",
+    "numeric": "585",
+    "name": "Palau",
+    "nameEn": "Palau",
+    "capital": [
+      "Ngerulmud"
+    ],
+    "region": "Oseania",
+    "subregion": "Micronesia",
+    "area": 459,
+    "latlng": [
+      7.5,
+      134.5
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "pw.svg",
+    "colors": [
+      "#4aadd6",
+      "#ffde00"
+    ]
+  },
+  {
+    "code": "ps",
+    "alpha3": "PSE",
+    "numeric": "275",
+    "name": "Palestina",
+    "nameEn": "Palestine",
+    "capital": [
+      "Ramallah"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "area": 6220,
+    "latlng": [
+      31.9,
+      35.2
+    ],
+    "difficulty": 3,
+    "independent": false,
+    "unMember": false,
+    "flag": "ps.svg",
+    "colors": [
+      "#009639",
+      "#ed2e38",
+      "#fff"
+    ]
+  },
+  {
+    "code": "pa",
+    "alpha3": "PAN",
+    "numeric": "591",
+    "name": "Panama",
+    "nameEn": "Panama",
+    "capital": [
+      "Panama City"
+    ],
+    "region": "Amerika",
+    "subregion": "Central America",
+    "area": 75417,
+    "latlng": [
+      9,
+      -80
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "pa.svg",
+    "colors": [
+      "#0000ab",
+      "#d80000",
+      "#db0000",
+      "#fff"
+    ]
+  },
+  {
+    "code": "ci",
+    "alpha3": "CIV",
+    "numeric": "384",
+    "name": "Pantai Gading",
+    "nameEn": "Ivory Coast",
+    "capital": [
+      "Yamoussoukro"
+    ],
+    "region": "Afrika",
+    "subregion": "Western Africa",
+    "area": 322463,
+    "latlng": [
+      8,
+      -5
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "ci.svg",
+    "colors": [
+      "#009a44",
+      "#ff8200",
+      "#fff"
+    ]
+  },
+  {
+    "code": "pg",
+    "alpha3": "PNG",
+    "numeric": "598",
+    "name": "Papua Nugini",
+    "nameEn": "Papua New Guinea",
+    "capital": [
+      "Port Moresby"
+    ],
+    "region": "Oseania",
+    "subregion": "Melanesia",
+    "area": 462840,
+    "latlng": [
+      -6,
+      147
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "pg.svg",
+    "colors": [
+      "#000001",
+      "#fc0",
+      "#fff"
+    ]
+  },
+  {
+    "code": "py",
+    "alpha3": "PRY",
+    "numeric": "600",
+    "name": "Paraguay",
+    "nameEn": "Paraguay",
+    "capital": [
+      "Asunción"
+    ],
+    "region": "Amerika",
+    "subregion": "South America",
+    "area": 406752,
+    "latlng": [
+      -23,
+      -58
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "py.svg",
+    "colors": [
+      "#0038a8",
+      "#009b3a",
+      "#d52b1e",
+      "#fedf00",
+      "#fff"
+    ]
+  },
+  {
+    "code": "fr",
+    "alpha3": "FRA",
+    "numeric": "250",
+    "name": "Perancis",
+    "nameEn": "France",
+    "capital": [
+      "Paris"
+    ],
+    "region": "Eropa",
+    "subregion": "Western Europe",
+    "area": 551695,
+    "latlng": [
+      46,
+      2
+    ],
+    "difficulty": 1,
+    "independent": true,
+    "unMember": true,
+    "flag": "fr.svg",
+    "colors": [
+      "#000091",
+      "#e1000f",
+      "#fff"
+    ]
+  },
+  {
+    "code": "pe",
+    "alpha3": "PER",
+    "numeric": "604",
+    "name": "Peru",
+    "nameEn": "Peru",
+    "capital": [
+      "Lima"
+    ],
+    "region": "Amerika",
+    "subregion": "South America",
+    "area": 1285216,
+    "latlng": [
+      -10,
+      -76
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "pe.svg",
+    "colors": [
+      "#d91023",
+      "#fff"
+    ]
+  },
+  {
+    "code": "pn",
+    "alpha3": "PCN",
+    "numeric": "612",
+    "name": "Pitcairn",
+    "nameEn": "Pitcairn Islands",
+    "capital": [
+      "Adamstown"
+    ],
+    "region": "Oseania",
+    "subregion": "Polynesia",
+    "area": 47,
+    "latlng": [
+      -25.06666666,
+      -130.1
+    ],
+    "difficulty": 4,
+    "independent": false,
+    "unMember": false,
+    "flag": "pn.svg",
+    "colors": [
+      "#00247d",
+      "#006ec7",
+      "#012169",
+      "#316d3a",
+      "#337321",
+      "#96877d",
+      "#c8102e",
+      "#e5e5e5",
+      "#f7e017",
+      "#fff"
+    ]
+  },
+  {
+    "code": "pl",
+    "alpha3": "POL",
+    "numeric": "616",
+    "name": "Polandia",
+    "nameEn": "Poland",
+    "capital": [
+      "Warsaw"
+    ],
+    "region": "Eropa",
+    "subregion": "Central Europe",
+    "area": 312679,
+    "latlng": [
+      52,
+      20
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "pl.svg",
+    "colors": [
+      "#dc143c",
+      "#fff"
+    ]
+  },
+  {
+    "code": "pf",
+    "alpha3": "PYF",
+    "numeric": "258",
+    "name": "Polinesia Perancis",
+    "nameEn": "French Polynesia",
+    "capital": [
+      "Papeetē"
+    ],
+    "region": "Oseania",
+    "subregion": "Polynesia",
+    "area": 4167,
+    "latlng": [
+      -15,
+      -140
+    ],
+    "difficulty": 2,
+    "independent": false,
+    "unMember": false,
+    "flag": "pf.svg",
+    "colors": [
+      "#083d9c",
+      "#de2010",
+      "#ef7d08",
+      "#fff"
+    ]
+  },
+  {
+    "code": "pt",
+    "alpha3": "PRT",
+    "numeric": "620",
+    "name": "Portugal",
+    "nameEn": "Portugal",
+    "capital": [
+      "Lisbon"
+    ],
+    "region": "Eropa",
+    "subregion": "Southern Europe",
+    "area": 92090,
+    "latlng": [
+      39.5,
+      -8
+    ],
+    "difficulty": 1,
+    "independent": true,
+    "unMember": true,
+    "flag": "pt.svg",
+    "colors": [
+      "#000001",
+      "#039",
+      "#060",
+      "#ff0",
+      "#fff"
+    ]
+  },
+  {
+    "code": "pr",
+    "alpha3": "PRI",
+    "numeric": "630",
+    "name": "Puerto Riko",
+    "nameEn": "Puerto Rico",
+    "capital": [
+      "San Juan"
+    ],
+    "region": "Amerika",
+    "subregion": "Caribbean",
+    "area": 8870,
+    "latlng": [
+      18.25,
+      -66.5
+    ],
+    "difficulty": 2,
+    "independent": false,
+    "unMember": false,
+    "flag": "pr.svg",
+    "colors": [
+      "#0050f0",
+      "#ed0000",
+      "#fff"
+    ]
+  },
+  {
+    "code": "hm",
+    "alpha3": "HMD",
+    "numeric": "334",
+    "name": "Pulau Heard dan Kepulauan McDonald",
+    "nameEn": "Heard Island and McDonald Islands",
+    "capital": [],
+    "region": "Antarktika",
+    "subregion": "",
+    "area": 412,
+    "latlng": [
+      -53.1,
+      72.51666666
+    ],
+    "difficulty": 4,
+    "independent": false,
+    "unMember": false,
+    "flag": "hm.svg",
+    "colors": [
+      "#00008b",
+      "#fff"
+    ]
+  },
+  {
+    "code": "cx",
+    "alpha3": "CXR",
+    "numeric": "162",
+    "name": "Pulau Natal",
+    "nameEn": "Christmas Island",
+    "capital": [
+      "Flying Fish Cove"
+    ],
+    "region": "Oseania",
+    "subregion": "Australia and New Zealand",
+    "area": 135,
+    "latlng": [
+      -10.5,
+      105.66666666
+    ],
+    "difficulty": 4,
+    "independent": false,
+    "unMember": false,
+    "flag": "cx.svg",
+    "colors": [
+      "#0021ad",
+      "#1c8a42",
+      "#ffc639",
+      "#fff"
+    ]
+  },
+  {
+    "code": "qa",
+    "alpha3": "QAT",
+    "numeric": "634",
+    "name": "Qatar",
+    "nameEn": "Qatar",
+    "capital": [
+      "Doha"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "area": 11586,
+    "latlng": [
+      25.5,
+      51.25
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "qa.svg",
+    "colors": [
+      "#8d1b3d",
+      "#fff"
+    ]
+  },
+  {
+    "code": "cd",
+    "alpha3": "COD",
+    "numeric": "180",
+    "name": "Republik Demokratik Kongo",
+    "nameEn": "DR Congo",
+    "capital": [
+      "Kinshasa"
+    ],
+    "region": "Afrika",
+    "subregion": "Middle Africa",
+    "area": 2344858,
+    "latlng": [
+      0,
+      25
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "cd.svg",
+    "colors": [
+      "#007fff",
+      "#ce1021",
+      "#f7d618"
+    ]
+  },
+  {
+    "code": "do",
+    "alpha3": "DOM",
+    "numeric": "214",
+    "name": "Republik Dominika",
+    "nameEn": "Dominican Republic",
+    "capital": [
+      "Santo Domingo"
+    ],
+    "region": "Amerika",
+    "subregion": "Caribbean",
+    "area": 48671,
+    "latlng": [
+      19,
+      -70.66666666
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "do.svg",
+    "colors": [
+      "#000001",
+      "#002d62",
+      "#006300",
+      "#00863d",
+      "#00873f",
+      "#008f4c",
+      "#201b18",
+      "#aa241e",
+      "#ce1126",
+      "#eac102",
+      "#ff0",
+      "#fff"
+    ]
+  },
+  {
+    "code": "cg",
+    "alpha3": "COG",
+    "numeric": "178",
+    "name": "Republik Kongo",
+    "nameEn": "Congo",
+    "capital": [
+      "Brazzaville"
+    ],
+    "region": "Afrika",
+    "subregion": "Middle Africa",
+    "area": 342000,
+    "latlng": [
+      -1,
+      15
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "cg.svg",
+    "colors": [
+      "#00ca00",
+      "#ff0"
+    ]
+  },
+  {
+    "code": "re",
+    "alpha3": "REU",
+    "numeric": "638",
+    "name": "Reunion",
+    "nameEn": "Réunion",
+    "capital": [
+      "Saint-Denis"
+    ],
+    "region": "Afrika",
+    "subregion": "Eastern Africa",
+    "area": 2511,
+    "latlng": [
+      -21.15,
+      55.5
+    ],
+    "difficulty": 4,
+    "independent": false,
+    "unMember": false,
+    "flag": "re.svg",
+    "colors": [
+      "#000091",
+      "#e1000f",
+      "#fff"
+    ]
+  },
+  {
+    "code": "ro",
+    "alpha3": "ROU",
+    "numeric": "642",
+    "name": "Rumania",
+    "nameEn": "Romania",
+    "capital": [
+      "Bucharest"
+    ],
+    "region": "Eropa",
+    "subregion": "Southeast Europe",
+    "area": 238391,
+    "latlng": [
+      46,
+      25
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "ro.svg",
+    "colors": [
+      "#00319c",
+      "#de2110",
+      "#ffde00"
+    ]
+  },
+  {
+    "code": "ru",
+    "alpha3": "RUS",
+    "numeric": "643",
+    "name": "Rusia",
+    "nameEn": "Russia",
+    "capital": [
+      "Moscow"
+    ],
+    "region": "Eropa",
+    "subregion": "Eastern Europe",
+    "area": 17098242,
+    "latlng": [
+      60,
+      100
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "ru.svg",
+    "colors": [
+      "#0039a6",
+      "#d52b1e",
+      "#fff"
+    ]
+  },
+  {
+    "code": "rw",
+    "alpha3": "RWA",
+    "numeric": "646",
+    "name": "Rwanda",
+    "nameEn": "Rwanda",
+    "capital": [
+      "Kigali"
+    ],
+    "region": "Afrika",
+    "subregion": "Eastern Africa",
+    "area": 26338,
+    "latlng": [
+      -2,
+      30
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "rw.svg",
+    "colors": [
+      "#00a1de",
+      "#20603d",
+      "#e5be01",
+      "#fad201"
+    ]
+  },
+  {
+    "code": "eh",
+    "alpha3": "ESH",
+    "numeric": "732",
+    "name": "Sahara Barat",
+    "nameEn": "Western Sahara",
+    "capital": [
+      "El Aaiún"
+    ],
+    "region": "Afrika",
+    "subregion": "Northern Africa",
+    "area": 266000,
+    "latlng": [
+      24.5,
+      -13
+    ],
+    "difficulty": 4,
+    "independent": false,
+    "unMember": false,
+    "flag": "eh.svg",
+    "colors": [
+      "#000001",
+      "#007a3d",
+      "#c4111b",
+      "#fff"
+    ]
+  },
+  {
+    "code": "bl",
+    "alpha3": "BLM",
+    "numeric": "652",
+    "name": "Saint Barthélemy",
+    "nameEn": "Saint Barthélemy",
+    "capital": [
+      "Gustavia"
+    ],
+    "region": "Amerika",
+    "subregion": "Caribbean",
+    "area": 21,
+    "latlng": [
+      18.5,
+      -63.41666666
+    ],
+    "difficulty": 4,
+    "independent": false,
+    "unMember": false,
+    "flag": "bl.svg",
+    "colors": [
+      "#000091",
+      "#e1000f",
+      "#fff"
+    ]
+  },
+  {
+    "code": "sh",
+    "alpha3": "SHN",
+    "numeric": "654",
+    "name": "Saint Helena",
+    "nameEn": "Saint Helena, Ascension and Tristan da Cunha",
+    "capital": [
+      "Jamestown"
+    ],
+    "region": "Afrika",
+    "subregion": "Western Africa",
+    "area": 394,
+    "latlng": [
+      -15.95,
+      -5.72
+    ],
+    "difficulty": 4,
+    "independent": false,
+    "unMember": false,
+    "flag": "sh.svg",
+    "colors": [
+      "#012169",
+      "#c8102e",
+      "#fff"
+    ]
+  },
+  {
+    "code": "kn",
+    "alpha3": "KNA",
+    "numeric": "659",
+    "name": "Saint Kitts dan Nevis",
+    "nameEn": "Saint Kitts and Nevis",
+    "capital": [
+      "Basseterre"
+    ],
+    "region": "Amerika",
+    "subregion": "Caribbean",
+    "area": 261,
+    "latlng": [
+      17.33333333,
+      -62.75
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "kn.svg",
+    "colors": [
+      "#000001",
+      "#35a100",
+      "#c70000",
+      "#ffe900",
+      "#fff"
+    ]
+  },
+  {
+    "code": "lc",
+    "alpha3": "LCA",
+    "numeric": "662",
+    "name": "Saint Lucia",
+    "nameEn": "Saint Lucia",
+    "capital": [
+      "Castries"
+    ],
+    "region": "Amerika",
+    "subregion": "Caribbean",
+    "area": 616,
+    "latlng": [
+      13.88333333,
+      -60.96666666
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "lc.svg",
+    "colors": [
+      "#000001",
+      "#65cfff",
+      "#ffce00",
+      "#fff"
+    ]
+  },
+  {
+    "code": "mf",
+    "alpha3": "MAF",
+    "numeric": "663",
+    "name": "Saint Martin (French part)",
+    "nameEn": "Saint Martin",
+    "capital": [
+      "Marigot"
+    ],
+    "region": "Amerika",
+    "subregion": "Caribbean",
+    "area": 53,
+    "latlng": [
+      18.08333333,
+      -63.95
+    ],
+    "difficulty": 4,
+    "independent": false,
+    "unMember": false,
+    "flag": "mf.svg",
+    "colors": [
+      "#000091",
+      "#e1000f",
+      "#fff"
+    ]
+  },
+  {
+    "code": "pm",
+    "alpha3": "SPM",
+    "numeric": "666",
+    "name": "Saint Pierre dan Miquelon",
+    "nameEn": "Saint Pierre and Miquelon",
+    "capital": [
+      "Saint-Pierre"
+    ],
+    "region": "Amerika",
+    "subregion": "North America",
+    "area": 242,
+    "latlng": [
+      46.83333333,
+      -56.33333333
+    ],
+    "difficulty": 4,
+    "independent": false,
+    "unMember": false,
+    "flag": "pm.svg",
+    "colors": [
+      "#000091",
+      "#e1000f",
+      "#fff"
+    ]
+  },
+  {
+    "code": "vc",
+    "alpha3": "VCT",
+    "numeric": "670",
+    "name": "Saint Vincent dan the Grenadines",
+    "nameEn": "Saint Vincent and the Grenadines",
+    "capital": [
+      "Kingstown"
+    ],
+    "region": "Amerika",
+    "subregion": "Caribbean",
+    "area": 389,
+    "latlng": [
+      13.25,
+      -61.2
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "vc.svg",
+    "colors": [
+      "#0058aa",
+      "#199a00",
+      "#f4f100"
+    ]
+  },
+  {
+    "code": "ws",
+    "alpha3": "WSM",
+    "numeric": "882",
+    "name": "Samoa",
+    "nameEn": "Samoa",
+    "capital": [
+      "Apia"
+    ],
+    "region": "Oseania",
+    "subregion": "Polynesia",
+    "area": 2842,
+    "latlng": [
+      -13.58333333,
+      -172.33333333
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "ws.svg",
+    "colors": [
+      "#002b7f",
+      "#ce1126",
+      "#fff"
+    ]
+  },
+  {
+    "code": "as",
+    "alpha3": "ASM",
+    "numeric": "016",
+    "name": "Samoa Amerika",
+    "nameEn": "American Samoa",
+    "capital": [
+      "Pago Pago"
+    ],
+    "region": "Oseania",
+    "subregion": "Polynesia",
+    "area": 199,
+    "latlng": [
+      -14.33333333,
+      -170
+    ],
+    "difficulty": 3,
+    "independent": false,
+    "unMember": false,
+    "flag": "as.svg",
+    "colors": [
+      "#006",
+      "#5a3719",
+      "#7b3c20",
+      "#999",
+      "#aa5323",
+      "#bd1021",
+      "#ffc221",
+      "#fff"
+    ]
+  },
+  {
+    "code": "sm",
+    "alpha3": "SMR",
+    "numeric": "674",
+    "name": "San Marino",
+    "nameEn": "San Marino",
+    "capital": [
+      "City of San Marino"
+    ],
+    "region": "Eropa",
+    "subregion": "Southern Europe",
+    "area": 61,
+    "latlng": [
+      43.76666666,
+      12.41666666
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "sm.svg",
+    "colors": [
+      "#006800",
+      "#19b6ef",
+      "#4fd46b",
+      "#65c7ff",
+      "#8fc753",
+      "#9d4916",
+      "#b97700",
+      "#c76e2e",
+      "#e40000",
+      "#fd0",
+      "#ffe100",
+      "#fff"
+    ]
+  },
+  {
+    "code": "st",
+    "alpha3": "STP",
+    "numeric": "678",
+    "name": "Sao Tome dan Principe",
+    "nameEn": "São Tomé and Príncipe",
+    "capital": [
+      "São Tomé"
+    ],
+    "region": "Afrika",
+    "subregion": "Middle Africa",
+    "area": 964,
+    "latlng": [
+      1,
+      7
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "st.svg",
+    "colors": [
+      "#000001",
+      "#12ad2b",
+      "#d21034",
+      "#ffce00"
+    ]
+  },
+  {
+    "code": "nz",
+    "alpha3": "NZL",
+    "numeric": "554",
+    "name": "Selandia Baru",
+    "nameEn": "New Zealand",
+    "capital": [
+      "Wellington"
+    ],
+    "region": "Oseania",
+    "subregion": "Australia and New Zealand",
+    "area": 270467,
+    "latlng": [
+      -41,
+      174
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "nz.svg",
+    "colors": [
+      "#00247d",
+      "#012169",
+      "#c8102e",
+      "#cc142b",
+      "#fff"
+    ]
+  },
+  {
+    "code": "sn",
+    "alpha3": "SEN",
+    "numeric": "686",
+    "name": "Senegal",
+    "nameEn": "Senegal",
+    "capital": [
+      "Dakar"
+    ],
+    "region": "Afrika",
+    "subregion": "Western Africa",
+    "area": 196722,
+    "latlng": [
+      14,
+      -14
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "sn.svg",
+    "colors": [
+      "#0b7226",
+      "#bc0000",
+      "#ff0"
+    ]
+  },
+  {
+    "code": "rs",
+    "alpha3": "SRB",
+    "numeric": "688",
+    "name": "Serbia",
+    "nameEn": "Serbia",
+    "capital": [
+      "Belgrade"
+    ],
+    "region": "Eropa",
+    "subregion": "Southeast Europe",
+    "area": 88361,
+    "latlng": [
+      44,
+      21
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "rs.svg",
+    "colors": [
+      "#0c4076",
+      "#21231e",
+      "#c6363c",
+      "#edb92e",
+      "#fff"
+    ]
+  },
+  {
+    "code": "sc",
+    "alpha3": "SYC",
+    "numeric": "690",
+    "name": "Seychelles",
+    "nameEn": "Seychelles",
+    "capital": [
+      "Victoria"
+    ],
+    "region": "Afrika",
+    "subregion": "Eastern Africa",
+    "area": 452,
+    "latlng": [
+      -4.58333333,
+      55.66666666
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "sc.svg",
+    "colors": [
+      "#003d88",
+      "#007a39",
+      "#d92223",
+      "#fcd955",
+      "#fff"
+    ]
+  },
+  {
+    "code": "sl",
+    "alpha3": "SLE",
+    "numeric": "694",
+    "name": "Sierra Leone",
+    "nameEn": "Sierra Leone",
+    "capital": [
+      "Freetown"
+    ],
+    "region": "Afrika",
+    "subregion": "Western Africa",
+    "area": 71740,
+    "latlng": [
+      8.5,
+      -11.5
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "sl.svg",
+    "colors": [
+      "#0000cd",
+      "#00cd00",
+      "#fff"
+    ]
+  },
+  {
+    "code": "sg",
+    "alpha3": "SGP",
+    "numeric": "702",
+    "name": "Singapura",
+    "nameEn": "Singapore",
+    "capital": [
+      "Singapore"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "area": 710,
+    "latlng": [
+      1.36666666,
+      103.8
+    ],
+    "difficulty": 1,
+    "independent": true,
+    "unMember": true,
+    "flag": "sg.svg",
+    "colors": [
+      "#df0000",
+      "#fff"
+    ]
+  },
+  {
+    "code": "sx",
+    "alpha3": "SXM",
+    "numeric": "534",
+    "name": "Sint Maarten (Dutch part)",
+    "nameEn": "Sint Maarten",
+    "capital": [
+      "Philipsburg"
+    ],
+    "region": "Amerika",
+    "subregion": "Caribbean",
+    "area": 34,
+    "latlng": [
+      18.033333,
+      -63.05
+    ],
+    "difficulty": 3,
+    "independent": false,
+    "unMember": false,
+    "flag": "sx.svg",
+    "colors": [
+      "#002395",
+      "#008737",
+      "#009fc5",
+      "#7e7e7e",
+      "#80cfe1",
+      "#bc715f",
+      "#ed2939",
+      "#ff0",
+      "#fff"
+    ]
+  },
+  {
+    "code": "cy",
+    "alpha3": "CYP",
+    "numeric": "196",
+    "name": "Siprus",
+    "nameEn": "Cyprus",
+    "capital": [
+      "Nicosia"
+    ],
+    "region": "Eropa",
+    "subregion": "Southern Europe",
+    "area": 9251,
+    "latlng": [
+      35,
+      33
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "cy.svg",
+    "colors": [
+      "#435125",
+      "#d47600",
+      "#fff"
+    ]
+  },
+  {
+    "code": "sk",
+    "alpha3": "SVK",
+    "numeric": "703",
+    "name": "Slovakia",
+    "nameEn": "Slovakia",
+    "capital": [
+      "Bratislava"
+    ],
+    "region": "Eropa",
+    "subregion": "Central Europe",
+    "area": 49037,
+    "latlng": [
+      48.66666666,
+      19.5
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "sk.svg",
+    "colors": [
+      "#0b4ea2",
+      "#ee1c25",
+      "#fff"
+    ]
+  },
+  {
+    "code": "si",
+    "alpha3": "SVN",
+    "numeric": "705",
+    "name": "Slovenia",
+    "nameEn": "Slovenia",
+    "capital": [
+      "Ljubljana"
+    ],
+    "region": "Eropa",
+    "subregion": "Central Europe",
+    "area": 20273,
+    "latlng": [
+      46.11666666,
+      14.81666666
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "si.svg",
+    "colors": [
+      "#0000bf",
+      "#d50000",
+      "#ffdf00",
+      "#fff"
+    ]
+  },
+  {
+    "code": "so",
+    "alpha3": "SOM",
+    "numeric": "706",
+    "name": "Somalia",
+    "nameEn": "Somalia",
+    "capital": [
+      "Mogadishu"
+    ],
+    "region": "Afrika",
+    "subregion": "Eastern Africa",
+    "area": 637657,
+    "latlng": [
+      10,
+      49
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "so.svg",
+    "colors": [
+      "#40a6ff",
+      "#fff"
+    ]
+  },
+  {
+    "code": "es",
+    "alpha3": "ESP",
+    "numeric": "724",
+    "name": "Spanyol",
+    "nameEn": "Spain",
+    "capital": [
+      "Madrid"
+    ],
+    "region": "Eropa",
+    "subregion": "Southern Europe",
+    "area": 505992,
+    "latlng": [
+      40,
+      -4
+    ],
+    "difficulty": 1,
+    "independent": true,
+    "unMember": true,
+    "flag": "es.svg",
+    "colors": [
+      "#0039f0",
+      "#005bbf",
+      "#058e6e",
+      "#aa151b",
+      "#ad1519",
+      "#c7b500",
+      "#c8b100",
+      "#ccc",
+      "#db4446",
+      "#ed72aa",
+      "#f1bf00",
+      "#ffd691"
+    ]
+  },
+  {
+    "code": "lk",
+    "alpha3": "LKA",
+    "numeric": "144",
+    "name": "Sri Lanka",
+    "nameEn": "Sri Lanka",
+    "capital": [
+      "Colombo"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "area": 65610,
+    "latlng": [
+      7,
+      81
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "lk.svg",
+    "colors": [
+      "#000001",
+      "#005641",
+      "#8d2029",
+      "#ff5b00",
+      "#ffb700"
+    ]
+  },
+  {
+    "code": "sd",
+    "alpha3": "SDN",
+    "numeric": "729",
+    "name": "Sudan",
+    "nameEn": "Sudan",
+    "capital": [
+      "Khartoum"
+    ],
+    "region": "Afrika",
+    "subregion": "Northern Africa",
+    "area": 1886068,
+    "latlng": [
+      15,
+      30
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "sd.svg",
+    "colors": [
+      "#000001",
+      "#009a00",
+      "#fff"
+    ]
+  },
+  {
+    "code": "ss",
+    "alpha3": "SSD",
+    "numeric": "728",
+    "name": "Sudan Selatan",
+    "nameEn": "South Sudan",
+    "capital": [
+      "Juba"
+    ],
+    "region": "Afrika",
+    "subregion": "Middle Africa",
+    "area": 619745,
+    "latlng": [
+      7,
+      30
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "ss.svg",
+    "colors": [
+      "#000001",
+      "#078930",
+      "#0f47af",
+      "#da121a",
+      "#fcdd09",
+      "#fff"
+    ]
+  },
+  {
+    "code": "sy",
+    "alpha3": "SYR",
+    "numeric": "760",
+    "name": "Suriah",
+    "nameEn": "Syria",
+    "capital": [
+      "Damascus"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "area": 185180,
+    "latlng": [
+      35,
+      38
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "sy.svg",
+    "colors": [
+      "#007a3d",
+      "#ce1126",
+      "#fff"
+    ]
+  },
+  {
+    "code": "sr",
+    "alpha3": "SUR",
+    "numeric": "740",
+    "name": "Suriname",
+    "nameEn": "Suriname",
+    "capital": [
+      "Paramaribo"
+    ],
+    "region": "Amerika",
+    "subregion": "South America",
+    "area": 163820,
+    "latlng": [
+      4,
+      -56
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "sr.svg",
+    "colors": [
+      "#377e3f",
+      "#b40a2d",
+      "#ecc81d",
+      "#fff"
+    ]
+  },
+  {
+    "code": "sj",
+    "alpha3": "SJM",
+    "numeric": "744",
+    "name": "Svalbard dan Jan Mayen",
+    "nameEn": "Svalbard and Jan Mayen",
+    "capital": [
+      "Longyearbyen"
+    ],
+    "region": "Eropa",
+    "subregion": "Northern Europe",
+    "area": -1,
+    "latlng": [
+      78,
+      20
+    ],
+    "difficulty": 4,
+    "independent": false,
+    "unMember": false,
+    "flag": "sj.svg",
+    "colors": [
+      "#002868",
+      "#ef2b2d",
+      "#fff"
+    ]
+  },
+  {
+    "code": "se",
+    "alpha3": "SWE",
+    "numeric": "752",
+    "name": "Sweden",
+    "nameEn": "Sweden",
+    "capital": [
+      "Stockholm"
+    ],
+    "region": "Eropa",
+    "subregion": "Northern Europe",
+    "area": 450295,
+    "latlng": [
+      62,
+      15
+    ],
+    "difficulty": 1,
+    "independent": true,
+    "unMember": true,
+    "flag": "se.svg",
+    "colors": [
+      "#005293",
+      "#fecb00"
+    ]
+  },
+  {
+    "code": "ch",
+    "alpha3": "CHE",
+    "numeric": "756",
+    "name": "Swiss",
+    "nameEn": "Switzerland",
+    "capital": [
+      "Bern"
+    ],
+    "region": "Eropa",
+    "subregion": "Western Europe",
+    "area": 41284,
+    "latlng": [
+      47,
+      8
+    ],
+    "difficulty": 1,
+    "independent": true,
+    "unMember": true,
+    "flag": "ch.svg",
+    "colors": [
+      "#fff"
+    ]
+  },
+  {
+    "code": "tw",
+    "alpha3": "TWN",
+    "numeric": "158",
+    "name": "Taiwan",
+    "nameEn": "Taiwan",
+    "capital": [
+      "Taipei"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "area": 36193,
+    "latlng": [
+      23.5,
+      121
+    ],
+    "difficulty": 2,
+    "independent": false,
+    "unMember": false,
+    "flag": "tw.svg",
+    "colors": [
+      "#000095",
+      "#fff"
+    ]
+  },
+  {
+    "code": "tj",
+    "alpha3": "TJK",
+    "numeric": "762",
+    "name": "Tajikistan",
+    "nameEn": "Tajikistan",
+    "capital": [
+      "Dushanbe"
+    ],
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "area": 143100,
+    "latlng": [
+      39,
+      71
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "tj.svg",
+    "colors": [
+      "#060",
+      "#c00",
+      "#f8c300",
+      "#fff"
+    ]
+  },
+  {
+    "code": "cv",
+    "alpha3": "CPV",
+    "numeric": "132",
+    "name": "Tanjung Verde",
+    "nameEn": "Cape Verde",
+    "capital": [
+      "Praia"
+    ],
+    "region": "Afrika",
+    "subregion": "Western Africa",
+    "area": 4033,
+    "latlng": [
+      16,
+      -24
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "cv.svg",
+    "colors": [
+      "#081873",
+      "#de3929",
+      "#ffce08",
+      "#fff"
+    ]
+  },
+  {
+    "code": "tz",
+    "alpha3": "TZA",
+    "numeric": "834",
+    "name": "Tanzania",
+    "nameEn": "Tanzania",
+    "capital": [
+      "Dodoma"
+    ],
+    "region": "Afrika",
+    "subregion": "Eastern Africa",
+    "area": 945087,
+    "latlng": [
+      -6,
+      35
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "tz.svg",
+    "colors": [
+      "#000001",
+      "#090",
+      "#09f",
+      "#ff0"
+    ]
+  },
+  {
+    "code": "io",
+    "alpha3": "IOT",
+    "numeric": "086",
+    "name": "Teritori Samudra Hindia Britania",
+    "nameEn": "British Indian Ocean Territory",
+    "capital": [
+      "Diego Garcia"
+    ],
+    "region": "Afrika",
+    "subregion": "Eastern Africa",
+    "area": 60,
+    "latlng": [
+      -6,
+      71.5
+    ],
+    "difficulty": 4,
+    "independent": false,
+    "unMember": false,
+    "flag": "io.svg",
+    "colors": [
+      "#000063",
+      "#006300",
+      "#006d00",
+      "#012169",
+      "#a24300",
+      "#c00",
+      "#c8102e",
+      "#fff",
+      "#fff100"
+    ]
+  },
+  {
+    "code": "th",
+    "alpha3": "THA",
+    "numeric": "764",
+    "name": "Thailand",
+    "nameEn": "Thailand",
+    "capital": [
+      "Bangkok"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "area": 513120,
+    "latlng": [
+      15,
+      100
+    ],
+    "difficulty": 1,
+    "independent": true,
+    "unMember": true,
+    "flag": "th.svg",
+    "colors": [
+      "#2d2a4a",
+      "#a51931",
+      "#f4f5f8"
+    ]
+  },
+  {
+    "code": "tl",
+    "alpha3": "TLS",
+    "numeric": "626",
+    "name": "Timor Leste",
+    "nameEn": "Timor-Leste",
+    "capital": [
+      "Dili"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "area": 14874,
+    "latlng": [
+      -8.83333333,
+      125.91666666
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "tl.svg",
+    "colors": [
+      "#000001",
+      "#cb000f",
+      "#f8c00c",
+      "#fff"
+    ]
+  },
+  {
+    "code": "tg",
+    "alpha3": "TGO",
+    "numeric": "768",
+    "name": "Togo",
+    "nameEn": "Togo",
+    "capital": [
+      "Lomé"
+    ],
+    "region": "Afrika",
+    "subregion": "Western Africa",
+    "area": 56785,
+    "latlng": [
+      8,
+      1.16666666
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "tg.svg",
+    "colors": [
+      "#118600",
+      "#d80000",
+      "#ffe300",
+      "#fff"
+    ]
+  },
+  {
+    "code": "tk",
+    "alpha3": "TKL",
+    "numeric": "772",
+    "name": "Tokelau",
+    "nameEn": "Tokelau",
+    "capital": [
+      "Fakaofo"
+    ],
+    "region": "Oseania",
+    "subregion": "Polynesia",
+    "area": 12,
+    "latlng": [
+      -9,
+      -172
+    ],
+    "difficulty": 4,
+    "independent": false,
+    "unMember": false,
+    "flag": "tk.svg",
+    "colors": [
+      "#00247d",
+      "#fed100",
+      "#fff"
+    ]
+  },
+  {
+    "code": "to",
+    "alpha3": "TON",
+    "numeric": "776",
+    "name": "Tonga",
+    "nameEn": "Tonga",
+    "capital": [
+      "Nuku'alofa"
+    ],
+    "region": "Oseania",
+    "subregion": "Polynesia",
+    "area": 747,
+    "latlng": [
+      -20,
+      -175
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "to.svg",
+    "colors": [
+      "#c10000",
+      "#fff"
+    ]
+  },
+  {
+    "code": "tt",
+    "alpha3": "TTO",
+    "numeric": "780",
+    "name": "Trinidad dan Tobago",
+    "nameEn": "Trinidad and Tobago",
+    "capital": [
+      "Port of Spain"
+    ],
+    "region": "Amerika",
+    "subregion": "Caribbean",
+    "area": 5130,
+    "latlng": [
+      11,
+      -61
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "tt.svg",
+    "colors": [
+      "#000001",
+      "#e00000",
+      "#fff"
+    ]
+  },
+  {
+    "code": "tn",
+    "alpha3": "TUN",
+    "numeric": "788",
+    "name": "Tunisia",
+    "nameEn": "Tunisia",
+    "capital": [
+      "Tunis"
+    ],
+    "region": "Afrika",
+    "subregion": "Northern Africa",
+    "area": 163610,
+    "latlng": [
+      34,
+      9
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "tn.svg",
+    "colors": [
+      "#e70013",
+      "#fff"
+    ]
+  },
+  {
+    "code": "tr",
+    "alpha3": "TUR",
+    "numeric": "792",
+    "name": "Turki",
+    "nameEn": "Türkiye",
+    "capital": [
+      "Ankara"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "area": 783562,
+    "latlng": [
+      39,
+      35
+    ],
+    "difficulty": 1,
+    "independent": true,
+    "unMember": true,
+    "flag": "tr.svg",
+    "colors": [
+      "#e30a17",
+      "#fff"
+    ]
+  },
+  {
+    "code": "tm",
+    "alpha3": "TKM",
+    "numeric": "795",
+    "name": "Turkmenistan",
+    "nameEn": "Turkmenistan",
+    "capital": [
+      "Ashgabat"
+    ],
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "area": 488100,
+    "latlng": [
+      40,
+      60
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "tm.svg",
+    "colors": [
+      "#00843d",
+      "#383739",
+      "#d22630",
+      "#ffc72c",
+      "#fff"
+    ]
+  },
+  {
+    "code": "tc",
+    "alpha3": "TCA",
+    "numeric": "796",
+    "name": "Turks dan Caicos Islands",
+    "nameEn": "Turks and Caicos Islands",
+    "capital": [
+      "Cockburn Town"
+    ],
+    "region": "Amerika",
+    "subregion": "Caribbean",
+    "area": 948,
+    "latlng": [
+      21.75,
+      -71.58333333
+    ],
+    "difficulty": 3,
+    "independent": false,
+    "unMember": false,
+    "flag": "tc.svg",
+    "colors": [
+      "#000001",
+      "#002868",
+      "#009e49",
+      "#012169",
+      "#9e540a",
+      "#c8102e",
+      "#ce1126",
+      "#f1b2dc",
+      "#fcad56",
+      "#fcd116",
+      "#ffa1a1",
+      "#fff"
+    ]
+  },
+  {
+    "code": "tv",
+    "alpha3": "TUV",
+    "numeric": "798",
+    "name": "Tuvalu",
+    "nameEn": "Tuvalu",
+    "capital": [
+      "Funafuti"
+    ],
+    "region": "Oseania",
+    "subregion": "Polynesia",
+    "area": 26,
+    "latlng": [
+      -8,
+      178
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "tv.svg",
+    "colors": [
+      "#009fca",
+      "#012169",
+      "#c8102e",
+      "#fff",
+      "#fff40d"
+    ]
+  },
+  {
+    "code": "ug",
+    "alpha3": "UGA",
+    "numeric": "800",
+    "name": "Uganda",
+    "nameEn": "Uganda",
+    "capital": [
+      "Kampala"
+    ],
+    "region": "Afrika",
+    "subregion": "Eastern Africa",
+    "area": 241550,
+    "latlng": [
+      1,
+      32
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "ug.svg",
+    "colors": [
+      "#000001",
+      "#9ca69c",
+      "#de3108",
+      "#de3908",
+      "#ffe700",
+      "#fff",
+      "#fffdff"
+    ]
+  },
+  {
+    "code": "ua",
+    "alpha3": "UKR",
+    "numeric": "804",
+    "name": "Ukraina",
+    "nameEn": "Ukraine",
+    "capital": [
+      "Kyiv"
+    ],
+    "region": "Eropa",
+    "subregion": "Eastern Europe",
+    "area": 603500,
+    "latlng": [
+      49,
+      32
+    ],
+    "difficulty": 1,
+    "independent": true,
+    "unMember": true,
+    "flag": "ua.svg",
+    "colors": [
+      "#0057b8"
+    ]
+  },
+  {
+    "code": "ae",
+    "alpha3": "ARE",
+    "numeric": "784",
+    "name": "Uni Emirat Arab",
+    "nameEn": "United Arab Emirates",
+    "capital": [
+      "Abu Dhabi"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "area": 83600,
+    "latlng": [
+      24,
+      54
+    ],
+    "difficulty": 1,
+    "independent": true,
+    "unMember": true,
+    "flag": "ae.svg",
+    "colors": [
+      "#000001",
+      "#00732f",
+      "#fff"
+    ]
+  },
+  {
+    "code": "um",
+    "alpha3": "UMI",
+    "numeric": "581",
+    "name": "United States Minor Outlying Islands",
+    "nameEn": "United States Minor Outlying Islands",
+    "capital": [],
+    "region": "Amerika",
+    "subregion": "North America",
+    "area": 34.2,
+    "latlng": [
+      19.3,
+      166.633333
+    ],
+    "difficulty": 4,
+    "independent": false,
+    "unMember": false,
+    "flag": "um.svg",
+    "colors": [
+      "#192f5d",
+      "#bd3d44",
+      "#fff"
+    ]
+  },
+  {
+    "code": "uy",
+    "alpha3": "URY",
+    "numeric": "858",
+    "name": "Uruguay",
+    "nameEn": "Uruguay",
+    "capital": [
+      "Montevideo"
+    ],
+    "region": "Amerika",
+    "subregion": "South America",
+    "area": 181034,
+    "latlng": [
+      -33,
+      -56
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "uy.svg",
+    "colors": [
+      "#0038a8",
+      "#fcd116",
+      "#fff"
+    ]
+  },
+  {
+    "code": "uz",
+    "alpha3": "UZB",
+    "numeric": "860",
+    "name": "Uzbekistan",
+    "nameEn": "Uzbekistan",
+    "capital": [
+      "Tashkent"
+    ],
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "area": 447400,
+    "latlng": [
+      41,
+      64
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "uz.svg",
+    "colors": [
+      "#0099b5",
+      "#1eb53a",
+      "#ce1126",
+      "#fff"
+    ]
+  },
+  {
+    "code": "vu",
+    "alpha3": "VUT",
+    "numeric": "548",
+    "name": "Vanuatu",
+    "nameEn": "Vanuatu",
+    "capital": [
+      "Port Vila"
+    ],
+    "region": "Oseania",
+    "subregion": "Melanesia",
+    "area": 12189,
+    "latlng": [
+      -16,
+      167
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "vu.svg",
+    "colors": [
+      "#000",
+      "#009543",
+      "#d21034",
+      "#fdce12"
+    ]
+  },
+  {
+    "code": "va",
+    "alpha3": "VAT",
+    "numeric": "336",
+    "name": "Vatikan",
+    "nameEn": "Vatican City",
+    "capital": [
+      "Vatican City"
+    ],
+    "region": "Eropa",
+    "subregion": "Southern Europe",
+    "area": 0.44,
+    "latlng": [
+      41.9,
+      12.45
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "va.svg",
+    "colors": [
+      "#ccc",
+      "#ce9d09",
+      "#fa0204",
+      "#ffe000",
+      "#fff"
+    ]
+  },
+  {
+    "code": "ve",
+    "alpha3": "VEN",
+    "numeric": "862",
+    "name": "Venezuela",
+    "nameEn": "Venezuela",
+    "capital": [
+      "Caracas"
+    ],
+    "region": "Amerika",
+    "subregion": "South America",
+    "area": 916445,
+    "latlng": [
+      8,
+      -66
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "ve.svg",
+    "colors": [
+      "#00247d",
+      "#cf142b",
+      "#fc0",
+      "#fff"
+    ]
+  },
+  {
+    "code": "vn",
+    "alpha3": "VNM",
+    "numeric": "704",
+    "name": "Vietnam",
+    "nameEn": "Vietnam",
+    "capital": [
+      "Hanoi"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "area": 331212,
+    "latlng": [
+      16.16666666,
+      107.83333333
+    ],
+    "difficulty": 1,
+    "independent": true,
+    "unMember": true,
+    "flag": "vn.svg",
+    "colors": [
+      "#da251d",
+      "#ff0"
+    ]
+  },
+  {
+    "code": "vg",
+    "alpha3": "VGB",
+    "numeric": "092",
+    "name": "Virgin Islands, British",
+    "nameEn": "British Virgin Islands",
+    "capital": [
+      "Road Town"
+    ],
+    "region": "Amerika",
+    "subregion": "Caribbean",
+    "area": 151,
+    "latlng": [
+      18.431383,
+      -64.62305
+    ],
+    "difficulty": 3,
+    "independent": false,
+    "unMember": false,
+    "flag": "vg.svg",
+    "colors": [
+      "#006",
+      "#006129",
+      "#012169",
+      "#9c5100",
+      "#c8102e",
+      "#ffc6b5",
+      "#ffc72c",
+      "#fff"
+    ]
+  },
+  {
+    "code": "vi",
+    "alpha3": "VIR",
+    "numeric": "850",
+    "name": "Virgin Islands, U.S.",
+    "nameEn": "United States Virgin Islands",
+    "capital": [
+      "Charlotte Amalie"
+    ],
+    "region": "Amerika",
+    "subregion": "Caribbean",
+    "area": 347,
+    "latlng": [
+      18.35,
+      -64.933333
+    ],
+    "difficulty": 3,
+    "independent": false,
+    "unMember": false,
+    "flag": "vi.svg",
+    "colors": [
+      "#0081c6",
+      "#162667",
+      "#369443",
+      "#a60032",
+      "#f4c53d",
+      "#fff"
+    ]
+  },
+  {
+    "code": "wf",
+    "alpha3": "WLF",
+    "numeric": "876",
+    "name": "Wallis and Futuna",
+    "nameEn": "Wallis and Futuna",
+    "capital": [
+      "Mata-Utu"
+    ],
+    "region": "Oseania",
+    "subregion": "Polynesia",
+    "area": 142,
+    "latlng": [
+      -13.3,
+      -176.2
+    ],
+    "difficulty": 4,
+    "independent": false,
+    "unMember": false,
+    "flag": "wf.svg",
+    "colors": [
+      "#000091",
+      "#e1000f",
+      "#fff"
+    ]
+  },
+  {
+    "code": "ye",
+    "alpha3": "YEM",
+    "numeric": "887",
+    "name": "Yaman",
+    "nameEn": "Yemen",
+    "capital": [
+      "Sana'a"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "area": 527968,
+    "latlng": [
+      15,
+      48
+    ],
+    "difficulty": 3,
+    "independent": true,
+    "unMember": true,
+    "flag": "ye.svg",
+    "colors": [
+      "#000001",
+      "#f10600",
+      "#fff"
+    ]
+  },
+  {
+    "code": "jo",
+    "alpha3": "JOR",
+    "numeric": "400",
+    "name": "Yordania",
+    "nameEn": "Jordan",
+    "capital": [
+      "Amman"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "area": 89342,
+    "latlng": [
+      31,
+      36
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "jo.svg",
+    "colors": [
+      "#000001",
+      "#090",
+      "#fff"
+    ]
+  },
+  {
+    "code": "gr",
+    "alpha3": "GRC",
+    "numeric": "300",
+    "name": "Yunani",
+    "nameEn": "Greece",
+    "capital": [
+      "Athens"
+    ],
+    "region": "Eropa",
+    "subregion": "Southern Europe",
+    "area": 131990,
+    "latlng": [
+      39,
+      22
+    ],
+    "difficulty": 1,
+    "independent": true,
+    "unMember": true,
+    "flag": "gr.svg",
+    "colors": [
+      "#0d5eaf",
+      "#fff"
+    ]
+  },
+  {
+    "code": "zm",
+    "alpha3": "ZMB",
+    "numeric": "894",
+    "name": "Zambia",
+    "nameEn": "Zambia",
+    "capital": [
+      "Lusaka"
+    ],
+    "region": "Afrika",
+    "subregion": "Eastern Africa",
+    "area": 752612,
+    "latlng": [
+      -15,
+      30
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "zm.svg",
+    "colors": [
+      "#000001",
+      "#198a00",
+      "#de2010",
+      "#ef7d00"
+    ]
+  },
+  {
+    "code": "zw",
+    "alpha3": "ZWE",
+    "numeric": "716",
+    "name": "Zimbabwe",
+    "nameEn": "Zimbabwe",
+    "capital": [
+      "Harare"
+    ],
+    "region": "Afrika",
+    "subregion": "Eastern Africa",
+    "area": 390757,
+    "latlng": [
+      -20,
+      30
+    ],
+    "difficulty": 2,
+    "independent": true,
+    "unMember": true,
+    "flag": "zw.svg",
+    "colors": [
+      "#000001",
+      "#006400",
+      "#00f",
+      "#d40000",
+      "#fc0",
+      "#ffd200",
+      "#fff"
+    ]
+  }
+]
