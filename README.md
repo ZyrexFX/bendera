@@ -62,13 +62,7 @@ Tingkat kesulitan disusun editorial, bukan otomatis. Penjelasannya ada di halama
 
 ## Deploy
 
-Proyek Vercel bernama `bendera` di akun `zyrexfxs-projects`. Deploy manual dari mesin lokal:
-
-```bash
-vercel --prod
-```
-
-Untuk deploy otomatis setiap push ke `main`, hubungkan repositori GitHub lewat **Project Settings → Git** di Vercel.
+Proyek Vercel `bendera` terhubung ke repositori GitHub ini. Setiap push ke `main` otomatis membangun ulang dan menerbitkan produksi. Deploy manual tetap bisa dengan `vercel --prod`.
 
 ## Lisensi
 
