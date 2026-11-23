@@ -206,23 +206,25 @@ function dedupeCountries(items: Country[]): Country[] {
 }
 
 /**
- * Distractors should feel plausible: first lookalike flags, then the same
- * subregion, then the same continent, then the whole pool.
+ * Distractors stay inside the question's difficulty tier. Pulling in a famous
+ * easy-tier country as a wrong answer for a hard flag gives the answer away:
+ * you can cross off the names you already know. Within the tier we still lead
+ * with lookalike flags, then the same subregion, then the same region.
  */
 function countryCandidates(
   target: Country,
   pool: Country[],
   lang: Lang,
-  ignoreDifficulty = false,
 ): Option[] {
   const withoutTarget = pool.filter((c) => c.code !== target.code);
-  const sameDifficulty = ignoreDifficulty
-    ? withoutTarget
-    : withoutTarget.filter((c) => c.difficulty === target.difficulty);
+  const sameTier = withoutTarget.filter(
+    (c) => c.difficulty === target.difficulty,
+  );
+  // Only widen past the tier when it is too small to fill the options.
+  const base =
+    sameTier.length >= OPTION_COUNT - 1 ? sameTier : withoutTarget;
 
-  // Lookalikes come from the whole pool, even outside the chosen tier. A
-  // Monaco flag is a fair wrong answer for Indonesia at any difficulty.
-  const lookalikes = withoutTarget
+  const lookalikes = base
     .map((country) => ({
       country,
       score:
@@ -234,20 +236,14 @@ function countryCandidates(
     .slice(0, 12)
     .map((item) => item.country);
 
-  const subregion = sameDifficulty.filter(
-    (c) => c.subregion === target.subregion,
-  );
-  const region = sameDifficulty.filter((c) => c.region === target.region);
-  const rest = sameDifficulty;
-  const relaxed = withoutTarget.filter((c) => c.region === target.region);
+  const subregion = base.filter((c) => c.subregion === target.subregion);
+  const region = base.filter((c) => c.region === target.region);
 
   return dedupeCountries([
     ...shuffle(lookalikes),
     ...shuffle(subregion),
     ...shuffle(region),
-    ...shuffle(rest),
-    ...shuffle(relaxed),
-    ...shuffle(withoutTarget),
+    ...shuffle(base),
   ]).map((country) => countryOption(country, lang));
 }
 
@@ -357,24 +353,28 @@ export function buildCapitalQuestions(
       label: capitalLabel(target),
     };
 
-    // Capitals in the same continent make for believable wrong answers.
-    const sameRegion = allCapitals.filter(
-      (c) => c.region === target.region && c.code !== target.code,
+    // Keep wrong capitals in the same tier for the same reason as flags:
+    // familiar capitals from easier countries would make hard questions easy.
+    const withoutTarget = allCapitals.filter(
+      (c) => c.code !== target.code,
     );
-    const sameDifficulty = allCapitals.filter(
-      (c) => c.difficulty === target.difficulty && c.code !== target.code,
+    const sameTier = withoutTarget.filter(
+      (c) => c.difficulty === target.difficulty,
     );
-    const seen = new Set<string>([target.code]);
-    const ordered = [...shuffle(sameRegion), ...shuffle(sameDifficulty), ...shuffle(allCapitals)]
-      .filter((c) => {
-        if (seen.has(c.code)) return false;
-        seen.add(c.code);
-        return true;
-      })
-      .map((c) => ({
-        key: `capital:${c.code}`,
-        label: capitalLabel(c),
-      }));
+    const base =
+      sameTier.length >= OPTION_COUNT - 1 ? sameTier : withoutTarget;
+    const sameSubregion = base.filter(
+      (c) => c.subregion === target.subregion,
+    );
+    const sameRegion = base.filter((c) => c.region === target.region);
+    const ordered = dedupeCountries([
+      ...shuffle(sameSubregion),
+      ...shuffle(sameRegion),
+      ...shuffle(base),
+    ]).map((c) => ({
+      key: `capital:${c.code}`,
+      label: capitalLabel(c),
+    }));
 
     const name = countryName(target, lang);
     return {
